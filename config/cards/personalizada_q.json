@@ -1,7 +1,7 @@
 [
   {
     "type": "Question",
-    "value": "Tras meses de debate la asamblea general de Wall Street solo pudo llegar al acuerdo de \"Más %s!\"",
+    "value": "¡Sólo el ávido de caprichos, podría comprar %s!\"",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -9,7 +9,7 @@
   },
   {
     "type": "Question",
-    "value": "Antes de %s,todo lo que teníamos era %s.",
+    "value": "quien se fue a %s, perdió %s.",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -17,10 +17,10 @@
   },
   {
     "type": "Question",
-    "value": "¡Todo el mundo al suelo! No queremos hacer daño a nadie. Solamente estamos aquí para %s.",
+    "value": "No te olvides de poner %s en %s.",
     "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
+    "draw": 1,
+    "pick": 2,
     "source": "CaH Official 2nd Expansion"
   },
   {
@@ -33,7 +33,7 @@
   },
   {
     "type": "Question",
-    "value": "Fui desde %s hasta %s, todo gracias a %s.",
+    "value": "I went from %s to %s, all thanks to %s.",
     "keep": "Yes",
     "draw": 2,
     "pick": 3,
@@ -41,7 +41,7 @@
   },
   {
     "type": "Question",
-    "value": "Si dios no quisiera que nos divirtiéramos con %s, no nos habría dado %s.",
+    "value": "If God didn't want us to enjoy %s, he wouldn't have given us %s.",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -49,7 +49,7 @@
   },
   {
     "type": "Question",
-    "value": "Uno mas uno son siete, quién me lo iba a decir? que era tan fácil %s.",
+    "value": "Little Miss Muffet Sat on a tuffet, Eating her curds and %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -57,7 +57,7 @@
   },
   {
     "type": "Question",
-    "value": "La élite social de Nueva York, está pagando miles de dólares solo por%s.",
+    "value": "Members of New York's social elite are paying thousands of dollars just to experience %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -65,7 +65,7 @@
   },
   {
     "type": "Question",
-    "value": "Tiran más dos tetas que %s.",
+    "value": "My country, 'tis of thee, sweet land of %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -73,7 +73,7 @@
   },
   {
     "type": "Question",
-    "value": "En su siguiente consulta, el doctor Phil explicará cómo hablarle a tu hijo sobre %s.",
+    "value": "Next time on Dr. Phil: How to talk to your child about %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -81,7 +81,7 @@
   },
   {
     "type": "Question",
-    "value": "Solo hay dos cosas ciertas en la vida: la muerte y %s.",
+    "value": "Only two things in life are certain: death and %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -89,7 +89,7 @@
   },
   {
     "type": "Question",
-    "value": "Mi proceso de curación empezó cuando me uní a un grupo de apoyo a las víctimas de %s.",
+    "value": "The healing process began when I joined a support group for victims of %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -97,7 +97,7 @@
   },
   {
     "type": "Question",
-    "value": "Los votos están contados, la nueva mascota del instituto será %s.",
+    "value": "The votes are in, and the new high school mascot is %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
