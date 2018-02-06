@@ -1,7 +1,7 @@
 [
   {
     "type": "Question",
-    "value": "\"Watson!\" Holmes exclaimed, \"This man was obviously killed by %s!\"",
+    "value": "\"Watson!\" exclamó Holmes, \"Este hombre obviamnte a muerto a causa de %s!\"",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -9,7 +9,7 @@
   },
   {
     "type": "Question",
-    "value": "%s ain't nothin' to fuck with.",
+    "value": "%s no es algo con lo que meterse.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -17,7 +17,7 @@
   },
   {
     "type": "Question",
-    "value": "%s gives a whole new meaning to %s.",
+    "value": "%s da un significado totalmente nuevo a %s.",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -25,7 +25,7 @@
   },
   {
     "type": "Question",
-    "value": "%s: good to the last drop.",
+    "value": "%s: bueno hasta la última gota.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -33,7 +33,7 @@
   },
   {
     "type": "Question",
-    "value": "%s in the front seat; %s in the back seat; gotta make my mind up, which seat do I take?",
+    "value": "%s en el asiento de delante; %s en el asiento de detrás; a ver si me decido, en qué asiento me pongo?",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -41,7 +41,7 @@
   },
   {
     "type": "Question",
-    "value": "%s in the morning, sailors take warning.",
+    "value": "%s. Yo solo aviso.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -49,7 +49,7 @@
   },
   {
     "type": "Question",
-    "value": "%s is a classic case of %s.",
+    "value": "%s es un clásico caso de %s.",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -57,7 +57,7 @@
   },
   {
     "type": "Question",
-    "value": "%s is a gateway to %s.",
+    "value": "%s es un portal a %s.",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -65,7 +65,7 @@
   },
   {
     "type": "Question",
-    "value": "%s is a time-saving godsend for busy housewives.",
+    "value": "%s is es un regalo del cielo que ha mejorado la eficacia de toda ama de casa.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -73,7 +73,7 @@
   },
   {
     "type": "Question",
-    "value": "%s is best enjoyed on the first date.",
+    "value": "%s es algo que probar en la primera cita.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -81,7 +81,7 @@
   },
   {
     "type": "Question",
-    "value": "%s is dead to me.",
+    "value": "%s está muerto para mí.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -89,7 +89,7 @@
   },
   {
     "type": "Question",
-    "value": "%s is nothing %s can't fix.",
+    "value": "%s no es nada que %s no pueda arreglar.",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -97,7 +97,7 @@
   },
   {
     "type": "Question",
-    "value": "%s is now outsourced to call centers in India.",
+    "value": "%s ahora se maneja desde call centers en india.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -105,7 +105,7 @@
   },
   {
     "type": "Question",
-    "value": "%s is the name of my new indie black metal emo jazz post-dubstep funk band.",
+    "value": "%s es el nombre de my nuevo grupo indie black metal emo jazz post-dubstep funk.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -121,7 +121,7 @@
   },
   {
     "type": "Question",
-    "value": "%s is the root of all evil.",
+    "value": "%s es al raíz de todo mal.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -129,7 +129,7 @@
   },
   {
     "type": "Question",
-    "value": "%s isn't about sex, it's about power.",
+    "value": "%s no tiene nada que ver con el sexo, tiene que ver con el poder.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -137,7 +137,7 @@
   },
   {
     "type": "Question",
-    "value": "%s means never having to say you're sorry.",
+    "value": "%s significa nunca tener que pedir disculpas.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -145,7 +145,7 @@
   },
   {
     "type": "Question",
-    "value": "%s R Us.",
+    "value": "Somos los %s, y estamos requete bien.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -161,7 +161,7 @@
   },
   {
     "type": "Question",
-    "value": "%s, fun for the whole family!",
+    "value": "%s, diversión para toda la familia!",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -169,7 +169,7 @@
   },
   {
     "type": "Question",
-    "value": "%s. Because, fuck you, that's why.",
+    "value": "%s. Porque me sale de la polla. Por eso es..",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -177,7 +177,7 @@
   },
   {
     "type": "Question",
-    "value": "%s. I'd hit that.",
+    "value": "%s. Yo lo hacía.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -185,7 +185,7 @@
   },
   {
     "type": "Question",
-    "value": "%s. It's everywhere you want to be.",
+    "value": "%s. Está donde tú estés.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -193,7 +193,7 @@
   },
   {
     "type": "Question",
-    "value": "%s. The Care Bear Stare",
+    "value": "Y la tía va y me dice que había conseguido %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -201,7 +201,7 @@
   },
   {
     "type": "Question",
-    "value": "%s. The Final Frontier.",
+    "value": "%s. La última frontera..",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -209,7 +209,7 @@
   },
   {
     "type": "Question",
-    "value": "%s. The Nicolas Cage Story",
+    "value": "%s. La historia de Nicholas Cage.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -217,7 +217,7 @@
   },
   {
     "type": "Question",
-    "value": "%s: The Other White Meat.",
+    "value": "%s: La otra carne blanca.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -225,7 +225,7 @@
   },
   {
     "type": "Question",
-    "value": "9 out of 10 doctors agree, %s twice a day prevents cancer.",
+    "value": "9 de cada 10 doctores están de acuerdo, %s dos veces al día previene el cáncer.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -233,7 +233,7 @@
   },
   {
     "type": "Question",
-    "value": "A fortune teller told me I will live a life filled with %s.",
+    "value": "Una adivina me dijo que viviría una vida llena de %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -241,7 +241,7 @@
   },
   {
     "type": "Question",
-    "value": "A hot new alternative medical practice involves placing %s in %s.",
+    "value": "Una nueva práctica médica consiste en ponerse %s en %s.",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -249,7 +249,7 @@
   },
   {
     "type": "Question",
-    "value": "A little-known fact is that Microsoft Windows was originally slated to be the first operating system to include %s.",
+    "value": "Un hecho poco conocido es que Microsoft Windows fue originalmente creado para ser el primer sistema con %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -257,7 +257,7 @@
   },
   {
     "type": "Question",
-    "value": "A little-known provision of Obamacare allows %s access to %s.",
+    "value": "Una disposición poco conocida de Obamacare da %s acceso a %s.",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -265,7 +265,7 @@
   },
   {
     "type": "Question",
-    "value": "According to an old Romanian superstition, %s will happen if you don't %s before going to bed.",
+    "value": "Según una antigua superstición rumana, %s puede pasar si no puedes %s antes de ir a la cama going to bed.",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -273,7 +273,7 @@
   },
   {
     "type": "Question",
-    "value": "All the cool kids are doing it.",
+    "value": "Todos los niños guays lo hacen.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -281,7 +281,7 @@
   },
   {
     "type": "Question",
-    "value": "An international tribunal has found %s guilty of %s.",
+    "value": "Un tribunal internacional ha declarado culpable a %s de %s.",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -289,7 +289,7 @@
   },
   {
     "type": "Question",
-    "value": "And on his farm he had %s, e-i-e-i-o!",
+    "value": "Ahora vuelvo, cariño, que tengo que ir a %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -297,7 +297,7 @@
   },
   {
     "type": "Question",
-    "value": "And then little Billy woke up the next morning, he discovered that the tooth fairy had left %s under his pillow.",
+    "value": "Y cuando el pequeño Billy se despertó a la mañana siguiente, descubrió qu el ratoncito Pérez le había dejado %s bajo la almohada.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -305,7 +305,7 @@
   },
   {
     "type": "Question",
-    "value": "Apple has revealed they now have a patent for %s.",
+    "value": "Apple ha revelado que ahora tiene una patente para %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -313,7 +313,7 @@
   },
   {
     "type": "Question",
-    "value": "Ask your doctor if %s is right for you.",
+    "value": "%s. Lea las instrucciones de este medicamento y conssulte al farmacéutico.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -321,7 +321,7 @@
   },
   {
     "type": "Question",
-    "value": "Back in my day, %s only cost a nickel.",
+    "value": "En mi época, %s costaba solo dos duros.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -329,7 +329,7 @@
   },
   {
     "type": "Question",
-    "value": "Bang %s Marry %s Kill %s.",
+    "value": "Tírate a %s, cásate con %s y mata a %s.",
     "keep": "Yes",
     "draw": 2,
     "pick": 3,
@@ -337,7 +337,7 @@
   },
   {
     "type": "Question",
-    "value": "Choosy moms choose %s.",
+    "value": "Las mamás exigentes escogen %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -345,7 +345,7 @@
   },
   {
     "type": "Question",
-    "value": "Cirque de Soleil presents MYSTIQUEE, a night of daring acrobatics, whimsy and %s.",
+    "value": "El Cirque de Soleil presenta MYSTIQUEE, una noche de acrobacias peligrosas y %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -353,7 +353,7 @@
   },
   {
     "type": "Question",
-    "value": "Daddy drinks because of %s.",
+    "value": "Mi papá beve por culpa de %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -361,7 +361,7 @@
   },
   {
     "type": "Question",
-    "value": "Damn it feels good to be %s.",
+    "value": "Joder, qué bueno es %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -369,7 +369,7 @@
   },
   {
     "type": "Question",
-    "value": "Danger! %s ahead!",
+    "value": "Peligro! %s en 2 kilómetros!",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -377,7 +377,7 @@
   },
   {
     "type": "Question",
-    "value": "Dear Sir or Madam, We regret to inform you that the Office of %s has denied your request for %s.",
+    "value": "Querido/a señor/a, Sentimos informarle  de que la oficina de %s ha denegado su petición de %s.",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -385,7 +385,7 @@
   },
   {
     "type": "Question",
-    "value": "Disney presents %s on ice!",
+    "value": "Disney presenta %s sobre hielo!",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -393,7 +393,7 @@
   },
   {
     "type": "Question",
-    "value": "Disney's newest Pixar movie will be about %s.",
+    "value": "La nueva película de Disney Pixar será sobre %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -401,7 +401,7 @@
   },
   {
     "type": "Question",
-    "value": "For campaign funding reform to really be effective, there needs to be a specific policy about %s contributions.",
+    "value": "Para que la reforma de financiación de campañas sea realmente efectiva, tiene que haber una cláusula sobre %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -409,7 +409,7 @@
   },
   {
     "type": "Question",
-    "value": "The Westboro Baptist Church have just announced that they plan to start picketing the funerals of %s too.",
+    "value": "La iglesia de Westboro ha anunciado que también quieren llevar a cabo los funerales de %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -417,7 +417,7 @@
   },
   {
     "type": "Question",
-    "value": "Genius is 10% inspiration and 90% %s.",
+    "value": "El éxito es 10 por cinto inspiración y 90 por ciento %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -425,7 +425,7 @@
   },
   {
     "type": "Question",
-    "value": "Give me liberty, or give me %s!",
+    "value": "Dame libertad, o dame %s!",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -433,7 +433,7 @@
   },
   {
     "type": "Question",
-    "value": "Go-go Gadget %s!",
+    "value": "Niños! Cómo hay que deciros que %s no es bueno!",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -441,7 +441,7 @@
   },
   {
     "type": "Question",
-    "value": "Groundbreaking research provides convincing evidence that %s killed the dinosaurs.",
+    "value": "Un estudio reciente da pruebas convincentes de que %s fue lo que realmente mató a los dinosaurios.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -449,7 +449,7 @@
   },
   {
     "type": "Question",
-    "value": "Happiness is %s.",
+    "value": "La pura felicidad es %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -457,7 +457,7 @@
   },
   {
     "type": "Question",
-    "value": "Hey Rocky, watch me pull %s out of my %s!",
+    "value": "y para mi siguiente número, me voy a sacar  %s de %s!",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -465,7 +465,7 @@
   },
   {
     "type": "Question",
-    "value": "How did this %s get into my %s?",
+    "value": "Pero cómo me ha entrado %s en %s?",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -473,7 +473,7 @@
   },
   {
     "type": "Question",
-    "value": "I always call in sick to work when I have a bad case of %s.",
+    "value": "Siempre llamo al trabajo y digo que estoy enfermo cuando me da un ataque de %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -481,7 +481,7 @@
   },
   {
     "type": "Question",
-    "value": "I always think of %s when I fall asleep.",
+    "value": "Siempre pienso en %s antes de ir a dormir.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -489,7 +489,7 @@
   },
   {
     "type": "Question",
-    "value": "I can drive and %s at the same time.",
+    "value": "Puedo conducir y %s a la vez.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -497,7 +497,7 @@
   },
   {
     "type": "Question",
-    "value": "I can handle public displays of affection, but %s is really too much.",
+    "value": "Me parece bien que la gente muestre afección en público, pero %s ya es demasiado.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -505,7 +505,7 @@
   },
   {
     "type": "Question",
-    "value": "I can't get no %s.",
+    "value": "Pues está visto que ya no tengo %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -513,7 +513,7 @@
   },
   {
     "type": "Question",
-    "value": "I feel the need - the need for %s.",
+    "value": "Tengo la irrefrenable necesidad de %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -521,7 +521,7 @@
   },
   {
     "type": "Question",
-    "value": "I firmly believe that for the economy to recover, the Department of %s needs to change its policies on %s.",
+    "value": "Soy de la opinión de que, para arreglar la economía, el departamento de %s debe cambiar su política sobre %s.",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -529,7 +529,7 @@
   },
   {
     "type": "Question",
-    "value": "I for one welcome our new %s overlords!",
+    "value": "Yo por mi parte doy la bienvenida a nuestro nuevo monarca %s!",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -537,7 +537,7 @@
   },
   {
     "type": "Question",
-    "value": "I got a fever and the only cure is more %s.",
+    "value": "Tengo fiebre y la única cura es más %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -545,7 +545,7 @@
   },
   {
     "type": "Question",
-    "value": "I have decided to commit to a life of studious contemplation on %s.",
+    "value": "He decidido centrar mi vida en la contemplación de %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -553,7 +553,7 @@
   },
   {
     "type": "Question",
-    "value": "I like my women like %s.",
+    "value": "A mí me gustan las mujeres como %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -561,7 +561,7 @@
   },
   {
     "type": "Question",
-    "value": "I like to keep %s as a souvenir of my sexual encounters.",
+    "value": "Me gusta guardar %s como souvenir de mis encuentros sexuales.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -569,7 +569,7 @@
   },
   {
     "type": "Question",
-    "value": "I live my life according to the teachings of %s.",
+    "value": "Vivo mi vida según las enseñanzas de  %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -577,7 +577,7 @@
   },
   {
     "type": "Question",
-    "value": "I love %s in my %s.",
+    "value": "A mí me gusta poner %s en %s.",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -585,7 +585,7 @@
   },
   {
     "type": "Question",
-    "value": "I love the smell of %s in the morning.",
+    "value": "Me encanta el olor de  %s por la mañana.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -593,7 +593,7 @@
   },
   {
     "type": "Question",
-    "value": "I met my current significant other at %s,",
+    "value": "Encontré a mi media naranja en %s,",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -601,7 +601,7 @@
   },
   {
     "type": "Question",
-    "value": "I might be a %s, but at least I'm no %s.",
+    "value": "Puede ser que sea %s, pero almenos no soy %s.",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -609,7 +609,7 @@
   },
   {
     "type": "Question",
-    "value": "I really hate %s at work. So I take care of it with %s.",
+    "value": "Detesto %s en el trabajo. Así que me libro mediante %s.",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -617,7 +617,7 @@
   },
   {
     "type": "Question",
-    "value": "I sleep like a baby after bathing in a tub full of %s.",
+    "value": "Duermo a pierna suelta después de bañarme en una piscina llena de %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -625,7 +625,7 @@
   },
   {
     "type": "Question",
-    "value": "I was into %s before it was cool.",
+    "value": "A mí me gustaba %s antes de que fuera guay.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -633,7 +633,7 @@
   },
   {
     "type": "Question",
-    "value": " I will not eat %s.  I will not eat them Sam-I-Am.",
+    "value": "Que no pienso comer %s, joder! Que no lo pienso comer!",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -641,7 +641,7 @@
   },
   {
     "type": "Question",
-    "value": "I work out so that I can look good when I'm %s.",
+    "value": "Voy al gimnasio para tener buen aspecto cuando voy a %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -649,7 +649,7 @@
   },
   {
     "type": "Question",
-    "value": "I'd rather be %s.",
+    "value": "Pues mucho mejor ser %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -657,7 +657,7 @@
   },
   {
     "type": "Question",
-    "value": "If a pot of gold is on one end of the rainbow, what is on the other?",
+    "value": "Si en una punta del arcoiris hay oro, qué hay en la otra punta?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -665,7 +665,7 @@
   },
   {
     "type": "Question",
-    "value": "If I don't enjoy %s, then the terrorists win.",
+    "value": "Si a mí no me gusta %s, pues a los terroristas sí les gustará.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -673,7 +673,7 @@
   },
   {
     "type": "Question",
-    "value": "If I weren't so busy with %s, I'd be %s.",
+    "value": "Si no estuviera tan ocupado con %s, quizás estaría %s.",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -681,7 +681,7 @@
   },
   {
     "type": "Question",
-    "value": "If there's one thing you could change about me it would be %s.",
+    "value": "Si pudieras cambiar una cosa sobre mí sería %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -689,7 +689,7 @@
   },
   {
     "type": "Question",
-    "value": "In a pinch, %s can be substituted with %s.",
+    "value": "En una situación de emergencia, puede sustituirse %s por %s.",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -697,7 +697,7 @@
   },
   {
     "type": "Question",
-    "value": "In a surprising turnaround, %s has publicly come out as supporting President Obama.",
+    "value": "Y así, de golpe, %s ha declarado que soporta al presidente Obama.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -705,7 +705,7 @@
   },
   {
     "type": "Question",
-    "value": "In an astonishing and ground-breaking decision, the Supreme Court has decided in favor of %s.",
+    "value": "El tribunal supremo me ha condenado por %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -713,7 +713,7 @@
   },
   {
     "type": "Question",
-    "value": "In Nintendo's new game, you must fight off wave after wave of %s in order to save %s.",
+    "value": "En el nuevo juego de Nintendo, tienes que luchar contra oleadas de %s para salvar a %s.",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -721,7 +721,7 @@
   },
   {
     "type": "Question",
-    "value": "In the grim darkness of the future there is only %s.",
+    "value": "En la oscuridad del futuro, solo hay %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -729,7 +729,7 @@
   },
   {
     "type": "Question",
-    "value": "In the new tenth circle of Hell, sinners will be condemned to an eternity of %s.",
+    "value": "en el nuevo décimo círculo del infierno, los pecadores serán condenados a una eternidad de %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -737,7 +737,7 @@
   },
   {
     "type": "Question",
-    "value": "Instead of her normal self, Cinderella should have turned into %s at midnight.",
+    "value": "En lugar de volver a su aspecto normal, La Cenicienta debería de haberse transformado en %s a la medianoche.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -745,7 +745,7 @@
   },
   {
     "type": "Question",
-    "value": "Instead of Robin, Batman should have had %s as a sidekick.",
+    "value": "En lugar de Robin, %s tendría que haber sido el ayudante de Batman.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -753,7 +753,7 @@
   },
   {
     "type": "Question",
-    "value": "Instead of the Jews, Hitler should have worried more about %s.",
+    "value": "En lugar de los judíos, Hitler tendría que haberse preocupado por %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -761,7 +761,7 @@
   },
   {
     "type": "Question",
-    "value": "Iron Chef: Today's secret ingredient is %s.",
+    "value": "El ingrediente secrreto de hoy es %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -769,7 +769,7 @@
   },
   {
     "type": "Question",
-    "value": "It is often argued that our ancestors would have never evolved without the aid of %s.",
+    "value": "Hay argumentos que sostienen que nuestros ancestros no hubieran evolucionado sin la ayuda de %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -777,7 +777,7 @@
   },
   {
     "type": "Question",
-    "value": "It rubs %s on its skin or else it gets %s again.",
+    "value": "Se pone %s en la cara para no tener %s de nuevo.",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -785,7 +785,7 @@
   },
   {
     "type": "Question",
-    "value": "It sucks when you look in the fridge, and all you have to eat is %s.",
+    "value": "Es una mierda mirar en la nevera y darte cuenta de que solo tienes %s para comer.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -793,7 +793,7 @@
   },
   {
     "type": "Question",
-    "value": "It was more uncomfortable than %s at a %s convention.",
+    "value": "Fue más incómodo que %s en una convención de %s.",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -801,7 +801,7 @@
   },
   {
     "type": "Question",
-    "value": "I've got the fever and the only cure is more %s.",
+    "value": "Tengo una gripe de mil demonios y la única cura es %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -809,7 +809,7 @@
   },
   {
     "type": "Question",
-    "value": "Keep your friends close, but your %s closer.",
+    "value": "Es importante tener amigos, pero más importante es tener %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -817,7 +817,7 @@
   },
   {
     "type": "Question",
-    "value": "Kitten thinks of nothing but %s all day.",
+    "value": "El gatito solo piensa en %s todo el día.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -825,7 +825,7 @@
   },
   {
     "type": "Question",
-    "value": "Legend of Zelda: The %s of %s.",
+    "value": "Legend of Zelda: el %s de %s.",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -833,7 +833,7 @@
   },
   {
     "type": "Question",
-    "value": "Like a good neighbor %s is there.",
+    "value": "Como buen venico que es, %s allí está siempre.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -841,7 +841,7 @@
   },
   {
     "type": "Question",
-    "value": "Michael Bay's new three-hour action epic pits %s against %s.",
+    "value": "En la nueva película de acción de 3 horas de Michael Bay,  %s se enfrenta a %s.",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -849,7 +849,7 @@
   },
   {
     "type": "Question",
-    "value": "Moral at work was boosted when they put %s in the vending machines.",
+    "value": "El ánimo de los trabajadores aumentó considerablemente cuando empezaron a vender %s en las máquinas expendedoras.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -857,7 +857,7 @@
   },
   {
     "type": "Question",
-    "value": "My favorite book is the classic tale of %s, written by %s.",
+    "value": "mi libro favorito es la clásica historia de %s, escrita por %s.",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -865,7 +865,7 @@
   },
   {
     "type": "Question",
-    "value": "My favorite childhood memory is %s.",
+    "value": "Cuando era niño, me gustaba muchísimo %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -873,7 +873,7 @@
   },
   {
     "type": "Question",
-    "value": "My favorite TV channel is the one that shows programs about %s.",
+    "value": "mi canal favorito es ese en el que ponen documentales sobre %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -881,7 +881,7 @@
   },
   {
     "type": "Question",
-    "value": "My favourite family recipe is %s and %s with just a dash of %s.",
+    "value": "Mi receta favorita es %s y %s con un toque de %s.",
     "keep": "Yes",
     "draw": 2,
     "pick": 3,
@@ -889,7 +889,7 @@
   },
   {
     "type": "Question",
-    "value": "My Little Pony: Friendship is %s.",
+    "value": "My Little Pony: La amistad es %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -897,7 +897,7 @@
   },
   {
     "type": "Question",
-    "value": "My mission in life is to create a videogame about %s.",
+    "value": "Mi objetivo en la vida es crear un videojuego sobre %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -905,7 +905,7 @@
   },
   {
     "type": "Question",
-    "value": "My other car is a %s.",
+    "value": "En mi otro coche tengo %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -913,7 +913,7 @@
   },
   {
     "type": "Question",
-    "value": "New car sticker craze: Calvin pissing on %s.",
+    "value": "Las nuevas pegatinas para el coche: Calvin meándose en %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -921,7 +921,7 @@
   },
   {
     "type": "Question",
-    "value": "Next on Oprah, teens addicted to %s.",
+    "value": "Y ahora en  Oprah, adolescentes adictos a %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -929,7 +929,7 @@
   },
   {
     "type": "Question",
-    "value": "Next, on Martha Stewart's Living, spruce up your %s with %s.",
+    "value": "Y ahora, en Art Atack, vamos a hacer %s con solo %s.",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -937,7 +937,7 @@
   },
   {
     "type": "Question",
-    "value": "Next, on the Twilight Zone: a parallel universe where %s is replaced by %s.",
+    "value": "Y ahora, en cuarto milenio: un universo paralelo donde %s es en realidad %s.",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -945,7 +945,7 @@
   },
   {
     "type": "Question",
-    "value": "Nothing beats cuddling with %s in bed.",
+    "value": "Nada es mejor que pasar la noche con %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -953,7 +953,7 @@
   },
   {
     "type": "Question",
-    "value": "Nothing feels better than %s on %s.",
+    "value": "No hay nada mejor que %s sobre %s.",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -961,7 +961,7 @@
   },
   {
     "type": "Question",
-    "value": "Now witness the firepower of this fully armed and operational %s!",
+    "value": "Y ahora apreciarás la potencia de este %s completamente armado!",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -969,7 +969,7 @@
   },
   {
     "type": "Question",
-    "value": "On tonight's special report, %s. Fact or fiction?",
+    "value": "En el informe especial de esta noche, %s. Hecho o ficción?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -977,7 +977,7 @@
   },
   {
     "type": "Question",
-    "value": "One day a man is bitten by %s and is transformed into %s.",
+    "value": "Un día, a un hombre le muerde %s y se transforma en %s.",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -985,7 +985,7 @@
   },
   {
     "type": "Question",
-    "value": "Only %s is worse than a heretic.",
+    "value": "Solo %s es peor que un hereje.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -993,7 +993,7 @@
   },
   {
     "type": "Question",
-    "value": "Our most powerful weapon on the day of the zombie apocalypse will be %s.",
+    "value": "Nuestra arma más poderosa en la apocalipsis zombi será %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1001,7 +1001,7 @@
   },
   {
     "type": "Question",
-    "value": "Remember, %s is never funny. Unless it involves %s.",
+    "value": "Recuerda, %s no es nada gracioso. Menos cuando implica %s.",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -1009,7 +1009,7 @@
   },
   {
     "type": "Question",
-    "value": "Roses are red; Violets are %s; %s is %s, and so are you.",
+    "value": "El %s de %s vive en las profundidades de %s.",
     "keep": "Yes",
     "draw": 2,
     "pick": 3,
@@ -1017,7 +1017,7 @@
   },
   {
     "type": "Question",
-    "value": "Remember kids, just say no to %s.",
+    "value": "Niños, recordad, siempre decid que no a %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1025,7 +1025,7 @@
   },
   {
     "type": "Question",
-    "value": "Science has discovered that beyond the edges of the universe, there is only %s.",
+    "value": "Científicos descubren que más allá de los bordes del universo, solo hay %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1033,7 +1033,7 @@
   },
   {
     "type": "Question",
-    "value": "Scientists have reverse engineered alien technology that unlocks the secrets of %s.",
+    "value": "Científicos encuentran tecnología alien que hace posible %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1041,7 +1041,7 @@
   },
   {
     "type": "Question",
-    "value": "Something you should regret, but secretly don't.",
+    "value": "Algo d lo que tendrías que arrepentirte, pero no lo haces.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1049,7 +1049,7 @@
   },
   {
     "type": "Question",
-    "value": "Sometimes you feel like %s, sometimes you don't.",
+    "value": "A veces te da por %s, y a veces no.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1057,7 +1057,7 @@
   },
   {
     "type": "Question",
-    "value": "Sticks and stones may break my bones, but %s will never hurt me.",
+    "value": "En un lugar de la Mancha, de cuyo nombre no quiero acordarme, vivía %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1065,7 +1065,7 @@
   },
   {
     "type": "Question",
-    "value": "Stop staring at %s.",
+    "value": "Que dejes de mirar a %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1073,7 +1073,7 @@
   },
   {
     "type": "Question",
-    "value": "The best Christmas present my grandma ever gave me was %s.",
+    "value": "El mejor regalo de Navidad que me dio mi abuela fue %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1081,7 +1081,7 @@
   },
   {
     "type": "Question",
-    "value": "The best things in life come in %s.",
+    "value": "Las mejores cosas de la vida vienen en %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1089,7 +1089,7 @@
   },
   {
     "type": "Question",
-    "value": "The clown made all the children laugh with his balloon animal in the shape of %s.",
+    "value": "A los niños les hacía mucha gracia el globo del payaso en forma de %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1097,7 +1097,7 @@
   },
   {
     "type": "Question",
-    "value": "The Himalayas are filled with many perils, such as %s.",
+    "value": "Los Himalaya están llenos de peligros, entre ellos %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1105,7 +1105,7 @@
   },
   {
     "type": "Question",
-    "value": "The internet was invented for %s.",
+    "value": "El Internet se inventó para %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1113,7 +1113,7 @@
   },
   {
     "type": "Question",
-    "value": "The Japanese government spent billions of yen researching %s.",
+    "value": "El govierno japonés se ha gastado millones de yenes en investigaciones sobre %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1121,55 +1121,7 @@
   },
   {
     "type": "Question",
-    "value": "The local experimental college is now offering a course on %s led by %s.",
-    "keep": "Yes",
-    "draw": 1,
-    "pick": 2,
-    "source": "BGG Suggestions"
-  },
-  {
-    "type": "Question",
-    "value": "The new hip trend at craft bars is vodka infused with %s.",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "BGG Suggestions"
-  },
-  {
-    "type": "Question",
-    "value": "The new Nintendo will be called the %s.",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "BGG Suggestions"
-  },
-  {
-    "type": "Question",
-    "value": "The new version of Dungeons and Dragons makes %s a playable race.",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "BGG Suggestions"
-  },
-  {
-    "type": "Question",
-    "value": "The next ice cream flavor from Ben & Jerry's.",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "BGG Suggestions"
-  },
-  {
-    "type": "Question",
-    "value": "The next Team Fortress 2 update will include %s.",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "BGG Suggestions"
-  },
-  {
-    "type": "Question",
-    "value": "The only problem with %s is that there isn't enough %s in it.",
+    "value": "La Universitat Pompeu Fabra ahora ofrece un curso sobre %s enseñado por %s.",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -1177,7 +1129,7 @@
   },
   {
     "type": "Question",
-    "value": "The power of love is useless against %s.",
+    "value": "Ahora, en los botellones, lo normal es el vodka con  %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1185,7 +1137,7 @@
   },
   {
     "type": "Question",
-    "value": "The road to success is paved with %s.",
+    "value": "El nuevo juego de Nintendo se llamará el %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1193,7 +1145,7 @@
   },
   {
     "type": "Question",
-    "value": "The sad truth is, at the edge of the universe, there is nothing but %s.",
+    "value": "En la nueva versión de Dragones y Mazmorras, tu presonaje puede ser %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1201,7 +1153,7 @@
   },
   {
     "type": "Question",
-    "value": "The theme for our senior prom will be %s.",
+    "value": "El nuevo savor de helado.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1209,7 +1161,7 @@
   },
   {
     "type": "Question",
-    "value": "There is a time for peace, a time for war, and a time for %s.",
+    "value": "La nueva actualización de Team Fortress 2 incluirá %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1217,55 +1169,7 @@
   },
   {
     "type": "Question",
-    "value": "There is nothing worse than seeing %s in the light of day.",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "BGG Suggestions"
-  },
-  {
-    "type": "Question",
-    "value": "There's no crying in %s.",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "BGG Suggestions"
-  },
-  {
-    "type": "Question",
-    "value": "There's no such thing as %s.",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "BGG Suggestions"
-  },
-  {
-    "type": "Question",
-    "value": "They found %s in the dumpster behind the abortion clinic.",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "BGG Suggestions"
-  },
-  {
-    "type": "Question",
-    "value": "This decade will be regarded as the golden age of %s.",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "BGG Suggestions"
-  },
-  {
-    "type": "Question",
-    "value": "This Thanksgiving, I'm most thankful for %s.",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "BGG Suggestions"
-  },
-  {
-    "type": "Question",
-    "value": "This year's Pulitzer Prize winning novel was chosen for its brilliant %s, as a metaphor for %s.",
+    "value": "El único problema con %s es que no hay suficiente %s.",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -1273,7 +1177,7 @@
   },
   {
     "type": "Question",
-    "value": "Try walking a mile in my %s.",
+    "value": "El poder del amor es inútil contra %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1281,7 +1185,7 @@
   },
   {
     "type": "Question",
-    "value": "Warning: This product may contain trace amounts of %s.",
+    "value": "El camino hacia el éxito es simplemente %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1289,7 +1193,79 @@
   },
   {
     "type": "Question",
-    "value": "What two things do you need to survive on a deserted island?",
+    "value": "s triste, pero lo único que hay más allá del universo es %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "BGG Suggestions"
+  },
+  {
+    "type": "Question",
+    "value": "Este carnaval, el tema va a ser %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "BGG Suggestions"
+  },
+  {
+    "type": "Question",
+    "value": "Hay tiempo para la paz, tiempo para la guerra, y tiempo para %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "BGG Suggestions"
+  },
+  {
+    "type": "Question",
+    "value": "No hay nada peor que ver %s a la luz del día.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "BGG Suggestions"
+  },
+  {
+    "type": "Question",
+    "value": "No hay que llorar por %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "BGG Suggestions"
+  },
+  {
+    "type": "Question",
+    "value": "Esto de %s no existe.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "BGG Suggestions"
+  },
+  {
+    "type": "Question",
+    "value": "Encontraron %s en el contenedor detrás de la clínica de abortos.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "BGG Suggestions"
+  },
+  {
+    "type": "Question",
+    "value": "Esta década será la edad de oro de %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "BGG Suggestions"
+  },
+  {
+    "type": "Question",
+    "value": "Hacia Belén va una burra, rin rin, yo me demendaba yo me remendé, yo me eché un remiendo yo me lo quité, cargada de %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "BGG Suggestions"
+  },
+  {
+    "type": "Question",
+    "value": "Este año, El ganador del premio Pulitzer fue elegido por su brillante %s, como metáfora de %s.",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -1297,7 +1273,7 @@
   },
   {
     "type": "Question",
-    "value": "What am I hiding from my parents?",
+    "value": "Y aunque somos diferentes, nos une una obsesión: %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1305,7 +1281,7 @@
   },
   {
     "type": "Question",
-    "value": "What am I lying to my friends about?",
+    "value": "Atención: Este producto puede contener restos de %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1313,247 +1289,7 @@
   },
   {
     "type": "Question",
-    "value": "What brought the orgy to a screeching halt?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "BGG Suggestions"
-  },
-  {
-    "type": "Question",
-    "value": "What did I find in the couch cushions?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "BGG Suggestions"
-  },
-  {
-    "type": "Question",
-    "value": "What do I fear my parents will find in my sock drawer?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "BGG Suggestions"
-  },
-  {
-    "type": "Question",
-    "value": "What do I like best about my job?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "BGG Suggestions"
-  },
-  {
-    "type": "Question",
-    "value": "What do I think about when I'm having trouble getting off?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "BGG Suggestions"
-  },
-  {
-    "type": "Question",
-    "value": "What gave me AIDS?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "BGG Suggestions"
-  },
-  {
-    "type": "Question",
-    "value": "What goes best on toast?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "BGG Suggestions"
-  },
-  {
-    "type": "Question",
-    "value": "What I wouldn't give for 10 minutes alone with %s",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "BGG Suggestions"
-  },
-  {
-    "type": "Question",
-    "value": "What in my past led to my current position on gun control laws?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "BGG Suggestions"
-  },
-  {
-    "type": "Question",
-    "value": "What is in my zombie apocalypse survival bag?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "BGG Suggestions"
-  },
-  {
-    "type": "Question",
-    "value": "What is the moral of the story?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "BGG Suggestions"
-  },
-  {
-    "type": "Question",
-    "value": "What is the only way I can achieve orgasm?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "BGG Suggestions"
-  },
-  {
-    "type": "Question",
-    "value": "What keeps me up at night?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "BGG Suggestions"
-  },
-  {
-    "type": "Question",
-    "value": "What makes me tingle all over?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "BGG Suggestions"
-  },
-  {
-    "type": "Question",
-    "value": "What makes the world go round?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "BGG Suggestions"
-  },
-  {
-    "type": "Question",
-    "value": "%s melts in your mouth, not in your hand.",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "BGG Suggestions"
-  },
-  {
-    "type": "Question",
-    "value": "What time is it? %s time!",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "BGG Suggestions"
-  },
-  {
-    "type": "Question",
-    "value": "What was Abraham Lincoln's deep, dark secret?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "BGG Suggestions"
-  },
-  {
-    "type": "Question",
-    "value": "What will be an issue in the next presidential election?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "BGG Suggestions"
-  },
-  {
-    "type": "Question",
-    "value": "What will be our last chance for salvation when our new robot overlords take over?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "BGG Suggestions"
-  },
-  {
-    "type": "Question",
-    "value": "What will be put in the time capsule to preserve humanity's memory?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "BGG Suggestions"
-  },
-  {
-    "type": "Question",
-    "value": "What will I bring to the party?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "BGG Suggestions"
-  },
-  {
-    "type": "Question",
-    "value": "What's my superpower?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "BGG Suggestions"
-  },
-  {
-    "type": "Question",
-    "value": "What's the real reason that I've gathered you all hear today?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "BGG Suggestions"
-  },
-  {
-    "type": "Question",
-    "value": "What's the worst that could happen?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "BGG Suggestions"
-  },
-  {
-    "type": "Question",
-    "value": "When a man and a woman love each other very much, suddenly %s.",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "BGG Suggestions"
-  },
-  {
-    "type": "Question",
-    "value": "When I get drunk, I feel that I am an expert on %s.",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "BGG Suggestions"
-  },
-  {
-    "type": "Question",
-    "value": "When I get married, our vows will include words about %s.",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "BGG Suggestions"
-  },
-  {
-    "type": "Question",
-    "value": "When I saw your mom naked, it reminded me of %s",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "BGG Suggestions"
-  },
-  {
-    "type": "Question",
-    "value": "When I'm alone and the room is totally dark, I like to secretly %s.",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "BGG Suggestions"
-  },
-  {
-    "type": "Question",
-    "value": "When life gives you %s, make %s.",
+    "value": "Qué dos cosas necesitas para sobrevivir en una isla desierta?",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -1561,7 +1297,7 @@
   },
   {
     "type": "Question",
-    "value": "When you wake up from a night of heavy drinking, you usually regret %s",
+    "value": "Qué estoy escondiendo de mis padres?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1569,7 +1305,7 @@
   },
   {
     "type": "Question",
-    "value": "Where do babies come from?",
+    "value": "Sobre qué estoy mintiendo a mis amigos?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1577,7 +1313,7 @@
   },
   {
     "type": "Question",
-    "value": "Who could have guessed that the alien invasion would be easily thwarted by %s.",
+    "value": "Qué interrumpió la orgía?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1585,7 +1321,7 @@
   },
   {
     "type": "Question",
-    "value": "Who was my childhood hero?",
+    "value": "Qué encontré en los cojines del sofá?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1593,7 +1329,7 @@
   },
   {
     "type": "Question",
-    "value": "Why am I in such a bad mood?",
+    "value": "Qué tengo miedo de que encuentren mis padres en mi cajón?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1601,7 +1337,7 @@
   },
   {
     "type": "Question",
-    "value": "Why am I like this?",
+    "value": "Qué es lo que más me gusta de mi trabajo?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1609,7 +1345,7 @@
   },
   {
     "type": "Question",
-    "value": "Why are we wearing tuxedos?",
+    "value": "En qué pienso cuando tengo problemas para correrme?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1617,7 +1353,207 @@
   },
   {
     "type": "Question",
-    "value": "Why did the %s have to %s?",
+    "value": "Qué me dio el sida?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "BGG Suggestions"
+  },
+  {
+    "type": "Question",
+    "value": "A mí me gustan las tostadas con %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "BGG Suggestions"
+  },
+  {
+    "type": "Question",
+    "value": "Lo daría todo por pasar 10 minutos con %s",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "BGG Suggestions"
+  },
+  {
+    "type": "Question",
+    "value": "A tu lado me siento seguro, a tu lado no dudo, a tu lado yo puedo %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "BGG Suggestions"
+  },
+  {
+    "type": "Question",
+    "value": "Qué hay en mi bolsa de apocalipsis zombi?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "BGG Suggestions"
+  },
+  {
+    "type": "Question",
+    "value": "Cuál es la moraleja de la historia?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "BGG Suggestions"
+  },
+  {
+    "type": "Question",
+    "value": "Cuál es la única manera de que tenga un orgasmo?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "BGG Suggestions"
+  },
+  {
+    "type": "Question",
+    "value": "Qué es lo que no me deja dormir por la noche?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "BGG Suggestions"
+  },
+  {
+    "type": "Question",
+    "value": "Qué es lo que me pone cachondo?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "BGG Suggestions"
+  },
+  {
+    "type": "Question",
+    "value": "Qué hace que el mundo gire?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "BGG Suggestions"
+  },
+  {
+    "type": "Question",
+    "value": "%s se derrite en tu boca, no en tus manos.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "BGG Suggestions"
+  },
+  {
+    "type": "Question",
+    "value": "Qué hora es? Es la hora de %s!",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "BGG Suggestions"
+  },
+  {
+    "type": "Question",
+    "value": "Cuál era el secreto oscuro de Abraham Lincon?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "BGG Suggestions"
+  },
+  {
+    "type": "Question",
+    "value": "%s será un gran problema en las siguientes elecciones.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "BGG Suggestions"
+  },
+  {
+    "type": "Question",
+    "value": "Se ha quedado un buen día para %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "BGG Suggestions"
+  },
+  {
+    "type": "Question",
+    "value": "Qué pondremos en la cápsula del tiempo para preservar la humanidad?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "BGG Suggestions"
+  },
+  {
+    "type": "Question",
+    "value": "Qué voy a traer a la fiesta?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "BGG Suggestions"
+  },
+  {
+    "type": "Question",
+    "value": "Cuál es mi superpoder?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "BGG Suggestions"
+  },
+  {
+    "type": "Question",
+    "value": "La razón por la cual os he reunido todos aquí?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "BGG Suggestions"
+  },
+  {
+    "type": "Question",
+    "value": "Qué es lo peor que puede pasar?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "BGG Suggestions"
+  },
+  {
+    "type": "Question",
+    "value": "Cuando un hombre y una mujer se quieren mucho, de repente... %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "BGG Suggestions"
+  },
+  {
+    "type": "Question",
+    "value": "Cuando me emborracho, me siento como un experto en %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "BGG Suggestions"
+  },
+  {
+    "type": "Question",
+    "value": "Cuando me case, nuestros votos incluirán unas cuantas palabras sobre %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "BGG Suggestions"
+  },
+  {
+    "type": "Question",
+    "value": "Cuando vi a tu mamá desnuda, me recordó a %s",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "BGG Suggestions"
+  },
+  {
+    "type": "Question",
+    "value": "Cuando estoy solo y la habitación está completamente oscura, me gusta %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "BGG Suggestions"
+  },
+  {
+    "type": "Question",
+    "value": "Cuando la vida te da %s, haz %s.",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -1625,7 +1561,7 @@
   },
   {
     "type": "Question",
-    "value": "Why is mom calling?",
+    "value": "Cuando te despiertas después de una noche de bever mucho, normalmente te arrepientes de %s",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1633,7 +1569,7 @@
   },
   {
     "type": "Question",
-    "value": "Why was my application to work at McDonald's rejected?",
+    "value": "De dónde vienen los bebés?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1641,7 +1577,7 @@
   },
   {
     "type": "Question",
-    "value": "With the Democrats and Republicans in a dead heat, the election was stolen by the %s party.",
+    "value": "Quién hubiera dicho que la invasión alienígena sería fácilmente parada por %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1649,7 +1585,39 @@
   },
   {
     "type": "Question",
-    "value": "Wonder Twin powers, activate! Shape of %s. Form of %s.",
+    "value": "Cuál fue mi héroe de la infancia?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "BGG Suggestions"
+  },
+  {
+    "type": "Question",
+    "value": "Por qué estoy de tan mal humor?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "BGG Suggestions"
+  },
+  {
+    "type": "Question",
+    "value": "Por qué soy así?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "BGG Suggestions"
+  },
+  {
+    "type": "Question",
+    "value": "Por qué vamos de traje?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "BGG Suggestions"
+  },
+  {
+    "type": "Question",
+    "value": "Por qué tuvo el %s que %s?",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -1657,7 +1625,7 @@
   },
   {
     "type": "Question",
-    "value": "You can never have too much %s.",
+    "value": "Por qué me está llamando mamá?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1665,7 +1633,7 @@
   },
   {
     "type": "Question",
-    "value": "You know God hates you when %s.",
+    "value": "Por qué rechazaron mi demanda de trabajo en McDonalds?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -1673,7 +1641,39 @@
   },
   {
     "type": "Question",
-    "value": "You're in good hands with %s.",
+    "value": "Con los demócratas y los republicanos en un punto muerto, las elecciones fueron ganadas por el partido de %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "BGG Suggestions"
+  },
+  {
+    "type": "Question",
+    "value": "El número de espectadores de Operación Triumfo subió de forma espectacular tras el accidente con %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "BGG Suggestions"
+  },
+  {
+    "type": "Question",
+    "value": "Nunca puedes tener demasiado %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "BGG Suggestions"
+  },
+  {
+    "type": "Question",
+    "value": "Sabes que alguien te odia cuando... %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "BGG Suggestions"
+  },
+  {
+    "type": "Question",
+    "value": "Estás en buenas manos con %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
