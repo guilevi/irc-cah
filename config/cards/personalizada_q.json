@@ -25,18 +25,17 @@
   },
   {
     "type": "Question",
-    "value": "I spent my whole life working toward %s, only to have it ruined by %s.",
+    "value": "El olor que hay en tu habitación me hace pensar en %s.",
     "keep": "Yes",
-    "draw": 1,
-    "pick": 2,
+    "draw": 0,
+    "pick": 1,
     "source": "CaH Official 2nd Expansion"
   },
   {
     "type": "Question",
-    "value": "I went from %s to %s, all thanks to %s.",
-    "keep": "Yes",
-    "draw": 2,
-    "pick": 3,
+    "value": "¡Tu cara me suena de algo! ¡te pareces a %s!",
+    "draw": 0,
+    "pick": 1,
     "source": "CaH Official 2nd Expansion"
   },
   {
@@ -49,7 +48,7 @@
   },
   {
     "type": "Question",
-    "value": "Little Miss Muffet Sat on a tuffet, Eating her curds and %s.",
+    "value": "Si los tontos volaran %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -57,7 +56,7 @@
   },
   {
     "type": "Question",
-    "value": "Members of New York's social elite are paying thousands of dollars just to experience %s.",
+    "value": "¡Si te vuelvo a ver pintar un corazón de tiza en la pared %s!.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -65,7 +64,7 @@
   },
   {
     "type": "Question",
-    "value": "My country, 'tis of thee, sweet land of %s.",
+    "value": "Si el cielo está enladrillado, el infierno %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -73,7 +72,7 @@
   },
   {
     "type": "Question",
-    "value": "Next time on Dr. Phil: How to talk to your child about %s.",
+    "value": "¡oiga, señor %s!.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -81,7 +80,7 @@
   },
   {
     "type": "Question",
-    "value": "Only two things in life are certain: death and %s.",
+    "value": "Estamos aquí reunidos para %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -89,7 +88,7 @@
   },
   {
     "type": "Question",
-    "value": "The healing process began when I joined a support group for victims of %s.",
+    "value": "¿y  si pillas a tu hijo de ocfho años usando como se debe una muñeca hinchable? %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
