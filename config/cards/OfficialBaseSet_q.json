@@ -1,7 +1,7 @@
 [
   {
     "type": "Question",
-    "value": "%s is a slippery slope that leads to %s.",
+    "value": "%s es una pendiente resvaladiza que coduce a %s.",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -9,7 +9,7 @@
   },
   {
     "type": "Question",
-    "value": "%s: Betcha can't have just one!",
+    "value": "%s: ya vreás como hay que tener más de uno!",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -17,7 +17,7 @@
   },
   {
     "type": "Question",
-    "value": "%s. High five, bro.",
+    "value": "%s. Choca esos cinco, hermano.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -25,7 +25,7 @@
   },
   {
     "type": "Question",
-    "value": "%s. It's a trap!",
+    "value": "%s. Es una trampa!",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -33,7 +33,7 @@
   },
   {
     "type": "Question",
-    "value": "%s. That's how I want to die.",
+    "value": "%s. Así quiero morir.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -41,7 +41,7 @@
   },
   {
     "type": "Question",
-    "value": "%s: Good to the last drop.",
+    "value": "%s: Bueno, bonito, barato.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -49,7 +49,7 @@
   },
   {
     "type": "Question",
-    "value": "%s: Kid-tested, mother-approved.",
+    "value": "%s: Probado por niños, aprovado por madres.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -57,7 +57,7 @@
   },
   {
     "type": "Question",
-    "value": "%s? There's an app for that.",
+    "value": "%s? Hay una app para eso.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -65,7 +65,7 @@
   },
   {
     "type": "Question",
-    "value": "A romantic, candlelit dinner would be incomplete without %s.",
+    "value": "Una cena romántica a la luz de unas velas no sería lo mismo sin %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -73,7 +73,7 @@
   },
   {
     "type": "Question",
-    "value": "After Hurricane Katrina, Sean Penn brought %s to the people of New Orleans.",
+    "value": "Tras el huracán Katrina, Sean Penn llevó %s a la gente de New Orleans.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -81,7 +81,7 @@
   },
   {
     "type": "Question",
-    "value": "After the earthquake, Sean Penn brought %s to the people of Haiti.",
+    "value": "Tras el terremoto, Sean Penn brought %s a la gente de Haití.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -89,7 +89,7 @@
   },
   {
     "type": "Question",
-    "value": "Alternative medicine is now embracing the curative powers of %s.",
+    "value": "La medicina alternativa está aceptando los poderes curativos de %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -97,7 +97,7 @@
   },
   {
     "type": "Question",
-    "value": "And I would have gotten away with it, too, if it hadn't been for %s.",
+    "value": "Y me hubiera salido con la mía, si no hubiera sido por %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -105,79 +105,7 @@
   },
   {
     "type": "Question",
-    "value": "And the Academy Award for %s goes to %s.",
-    "keep": "Yes",
-    "draw": 1,
-    "pick": 2,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "Anthropologists have recently discovered a primitive tribe that worships %s.",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "Betcha can't have just one!",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "BILLY MAYS HERE FOR %s!",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "But before I kill you, Mr. Bond, I must show you %s.",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "Coming to Broadway this season, %s: The Musical.",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "Dear Abby, I'm having some trouble with %s and would like your advice.",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "During Picasso's often-overlooked Brown Period, he produced hundreds of paintings of %s.",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "During sex, I like to think about %s.",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "For my next trick, I will pull %s out of %s.",
+    "value": "Y el premio a %s se otorga a %s.",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -185,7 +113,7 @@
   },
   {
     "type": "Question",
-    "value": "He who controls %s controls the world.",
+    "value": "Antropólogos descubren una tribu primitiva que adora a %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -193,7 +121,7 @@
   },
   {
     "type": "Question",
-    "value": "How am I maintaining my relationship status?",
+    "value": "Me conformo con %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -201,7 +129,7 @@
   },
   {
     "type": "Question",
-    "value": "I do not know with what weapons World War III will be fought, but World War IV will be fought with %s.",
+    "value": "BILLY MAYS, aquí para %s!",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -209,7 +137,7 @@
   },
   {
     "type": "Question",
-    "value": "I drink to forget %s.",
+    "value": "Pero antes de matarle, Sr. Bond, debo enseñarle %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -217,7 +145,7 @@
   },
   {
     "type": "Question",
-    "value": "I got 99 problems but %s ain't one.",
+    "value": "Llega a Broadway esta temporada, %s: El Musical.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -225,7 +153,7 @@
   },
   {
     "type": "Question",
-    "value": "I learned the hard way that you can't cheer up a grieving friend with %s.",
+    "value": "Querida Abby, Estoy teniendo algunos problemas con %s y necesito tu consejo.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -233,15 +161,7 @@
   },
   {
     "type": "Question",
-    "value": "I never truly understood %s until I encountered %s.",
-    "keep": "Yes",
-    "draw": 1,
-    "pick": 2,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "I wish I hadn't lost the instruction manual for %s.",
+    "value": "Durante el periodo marrón de Picaso, a menudo pasado por alto, produjo cientos de pinturas de %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -249,7 +169,7 @@
   },
   {
     "type": "Question",
-    "value": "I'm sorry, Professor, but I couldn't complete my homework because of %s.",
+    "value": "Durante el sexo, me gusta pensar en %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -257,15 +177,7 @@
   },
   {
     "type": "Question",
-    "value": "In 1,000 years, when paper money is but a distant memory, %s will be our currency.",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "In a world ravaged by %s, our only solace is %s.",
+    "value": "Todos los niños gritaron asustados al ver que el pequeño Billy sacaba %s de %s.",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -273,7 +185,7 @@
   },
   {
     "type": "Question",
-    "value": "In an attempt to reach a wider audience, the Smithsonian Museum of Natural History has opened an interactive exhibit on %s.",
+    "value": "el que controla %s controla el mundo.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -281,7 +193,7 @@
   },
   {
     "type": "Question",
-    "value": "In his new self-produced album, Kanye West raps over the sounds of %s.",
+    "value": "Cómo mantengo mi estado de relación amorosa?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -289,15 +201,7 @@
   },
   {
     "type": "Question",
-    "value": "In his new summer comedy, Rob Schneider is %s trapped in the body of %s.",
-    "keep": "Yes",
-    "draw": 1,
-    "pick": 2,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "In its new tourism campaign, Detroit proudly proclaims that it has finally eliminated %s.",
+    "value": "Desconozco con qué armas se luchará en la Tercera Guerra Mundial, pero en la cuarta se luchará con %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -305,7 +209,7 @@
   },
   {
     "type": "Question",
-    "value": "In L.A. County Jail, word is you can trade 200 cigarettes for %s.",
+    "value": "Bevo para olvidar %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -313,15 +217,7 @@
   },
   {
     "type": "Question",
-    "value": "In M. Night Shyamalan's new movie, Bruce Willis discovers that %s had really been %s all along.",
-    "keep": "Yes",
-    "draw": 1,
-    "pick": 2,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "In Michael Jackson's final moments, he thought about %s.",
+    "value": "Tengo 99 problemas pero %s no es uno de ellos.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -329,7 +225,7 @@
   },
   {
     "type": "Question",
-    "value": "In Rome, there are whisperings that the Vatican has a secret room devoted to %s.",
+    "value": "Aprendí de la peor manera que no puedes animar a un amigo triste a base de %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -337,79 +233,7 @@
   },
   {
     "type": "Question",
-    "value": "In the distant future, historians will agree that %s marked the beginning of America's decline.",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "Instead of coal, Santa now gives the bad children %s.",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "It's a pity that kids these days are all getting involved with %s.",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "It's a trap!",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "Life for American Indians was forever changed when the White Man introduced them to %s.",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "Life was difficult for cavemen before %s.",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "Maybe she's born with it. Maybe it's %s.",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "MTV's new reality show features eight washed-up celebrities living with %s.",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "Next from J.K. Rowling: Harry Potter and the Chamber of %s.",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "Rumor has it that Vladimir Putin's favorite dish is %s stuffed with %s.",
+    "value": "Nunca entendí del todo %s hasta que encontré %s.",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -417,7 +241,7 @@
   },
   {
     "type": "Question",
-    "value": "Science will never explain the origin of %s.",
+    "value": "Desearía no haber perdido el manual de instrucciones de %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -425,7 +249,7 @@
   },
   {
     "type": "Question",
-    "value": "Sorry everyone, I'm just %s.",
+    "value": "Lo siento, Profesor, pero no pude acabar mis deberes por culpa de %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -433,7 +257,7 @@
   },
   {
     "type": "Question",
-    "value": "Studies show that lab rats navigate mazes 50% faster after being exposed to %s.",
+    "value": "En 1000 años, cuando los billetes no sean más que un recuerdo lejano, %s será nuestra moneda.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -441,7 +265,7 @@
   },
   {
     "type": "Question",
-    "value": "That's right, I killed %s. How, you ask? %s.",
+    "value": "En un mundo devastado por %s, nuestro único consuelo es %s.",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -449,7 +273,7 @@
   },
   {
     "type": "Question",
-    "value": "The CIA now interrogates enemy agents by repeatedly subjecting them to %s.",
+    "value": "En un intento para apelar a una audiencia más anplia, el Museo Smithsoniano  de Historia Natural ha abierto una exhibición interactiva sobre %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -457,7 +281,7 @@
   },
   {
     "type": "Question",
-    "value": "The class field trip was completely ruined by %s.",
+    "value": "En su nuevo álbum de producción propia, Kanye West rapea mientras se oyen sonidos de %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -465,327 +289,7 @@
   },
   {
     "type": "Question",
-    "value": "The socialist governments of Scandinavia have declared that access to %s is a basic human right.",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "The U.S. has begun airdropping %s to the children of Afghanistan.",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "This is the way the world ends. Not with a bang but with %s.",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "This season on Man vs. Wild, Bear Grylls must survive in the depths of the Amazon with only %s and his wits.",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "War! What is it good for?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "What am I giving up for Lent?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "What are my parents hiding from me?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "What brought the orgy to a grinding halt?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "What did I bring back from Mexico?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "What did the US airdrop to the children of Afghanistan?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "What did Vin Diesel eat for dinner?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "What do old people smell like?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "What does Dick Cheney prefer?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "What don't you want to find in your Chinese food?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "What ended my last relationship?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "What gets better with age?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "What gives me uncontrollable gas?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "What has been making life difficult at the nudist colony?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "What helps Obama unwind?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "What is Batman's guilty pleasure?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "What never fails to liven up the party?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "What will always get you laid?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "What will I bring back in time to convince people that I am a powerful wizard?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "What would grandma find disturbing, yet oddly charming?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "What's a girl's best friend?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "What's my anti-drug?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "What's my secret power?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "What's that smell?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "What's that sound?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "What's the crustiest?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "What's the gift that keeps on giving?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "What's the most emo?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "What's the new fad diet?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "What's the next Happy Meal toy?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "What's the next superhero/sidekick duo?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "What's there a ton of in heaven?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "When all else fails, I can always masturbate to %s.",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "When I am a billionaire, I shall erect a 50-foot statue to commemorate %s.",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "When I am President of the United States, I will create the Department of %s.",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "When I pooped, what came out of my butt?",
-    "keep": "Yes",
-    "draw": 0,
-    "pick": 1,
-    "source": "CaH Official Base Set"
-  },
-  {
-    "type": "Question",
-    "value": "When I was tripping on acid, %s turned into %s.",
+    "value": "En su nueva comedia de verano, Rob Schneider es %s atrapado en el cuerpo de %s.",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -793,7 +297,7 @@
   },
   {
     "type": "Question",
-    "value": "When I'm in prison, I'll have %s smuggled in.",
+    "value": "En su nueva campaña de turismo, Detroit proclama orgullosamente que por fin ha eliminado %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -801,7 +305,7 @@
   },
   {
     "type": "Question",
-    "value": "When Pharaoh remained unmoved, Moses called down a Plague of %s.",
+    "value": "En la prisión del condado de los Ángeles, dicen las malas lenguas que se pueden cambiar doscientos cigarrillos por %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -809,7 +313,15 @@
   },
   {
     "type": "Question",
-    "value": "While the United States raced the Soviet Union to the moon, the Mexican government funneled millions of pesos into research on %s.",
+    "value": "En la nueva película de M. Night Shyamalan, Bruce Willis descubre que %s realmente había sido %s durante todo este tiempo.",
+    "keep": "Yes",
+    "draw": 1,
+    "pick": 2,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "En sus últimos momentos, Michael Jackson pensó en %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -817,7 +329,7 @@
   },
   {
     "type": "Question",
-    "value": "White people like %s.",
+    "value": "En Roma, se dice que el Vaticano tiene una sala secreta dedicada a %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -825,7 +337,7 @@
   },
   {
     "type": "Question",
-    "value": "Who stole the cookies from the cookie jar?",
+    "value": "En el futuro lejano, los historiadores se pondrán de acuerdo en que %s marcó el comienzo del declibe de los Estados unidos.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -833,7 +345,7 @@
   },
   {
     "type": "Question",
-    "value": "Why am I sticky?",
+    "value": "En lugar de carbón, los reyes ahora traen %s a los niños malos.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -841,7 +353,7 @@
   },
   {
     "type": "Question",
-    "value": "Why can't I sleep at night?",
+    "value": "Es una pena que los niños de hoy en día se junten con %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -849,7 +361,495 @@
   },
   {
     "type": "Question",
-    "value": "Why do I hurt all over?",
+    "value": "El sentido de la vida no es más que %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "La vida de los indios americanos fue cambiada para siempre cuando el hombre blanco introdujo %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "La vida era difícil para los hombres de las cavernas antes de %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Quizás nación con ello. Quizás es %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "El nuevo reality show de MTV presenta 8 famosos abandonados biviendo con %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "El siguiente libro de J.K. Rowling: Harry Potter y la cámara de %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Se rumorea que el plato favorito de Vladimir Putin es %s Relleno de %s.",
+    "keep": "Yes",
+    "draw": 1,
+    "pick": 2,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "La ciencia nunca explicará el origen de %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Lo siento, esque tengo ganas de %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Estudios confirman que las ratas de laboratorio se mueven por los laberintos 50 por ciento más rápido tras ser expuestas a %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Pues sí, yo maté a %s. Te preguntarás cómo. Pues a base de %s.",
+    "keep": "Yes",
+    "draw": 1,
+    "pick": 2,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "La CIA ahora interroga a agentes enemigos sometiéndolos continuamente a %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "La excursión de la escuela iba bien hasta que vimos %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Los goviernos socialistas de Escandinavia han declarado que el acceso a %s es un derecho humano básico.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Los stados Unidos han empezado a exportar %s a los niños de Afghanistán.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Así se acaba el mundo. No con una explosión, sino con %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Esta temporada en Man vs. Wild, Bear Grylls debe sobrevivir en las profundidades del Amazonas con solo% s y su ingenio.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Para qué vale la guerra?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Qué doy por la cuaresma?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Qué están ocultándome mis padres?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Fue una orgía fantástica. Menos cuando de golpe apareció %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Qué traje de souvenir desde Méjico?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Es deprimente pensar que he dedicado la mitad de mi vida a %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Qué ha cenado Vin Diesel?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "A qué huelen los viejos?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Qué prefiere Dick Cheney?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Qué es lo que no te quieres encontrar en tu comida china?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Qué hizo acabar mi última relación?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Qué mejora con al edad?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Qué me da gases incontrolables?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Qué hace la vida imposible a la colonia nudista?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Qué ayuda a Obama a liberar tensión?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Cuál es el placer oculto de Batman?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Qué es lo único que nunca falla en avivar la fiesta?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Qué te conseguirá siempre sexo?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Qué me llevaré en la máquina del tiempo para convencer a todos de que soy un mago poderoso?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Qué sería algo que la abuela encontraría inquietante, pero un tanto encantador??",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Cuál s el mejor amigo de una chica?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Cuál es mi anti-droga?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Cuál es mi poder secreto?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "A qué huele?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Qué es ese ruido?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Qué es lo más crugiente?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Qué es eso que me gusta comer y nunca admito?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Qué es lo más emo?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Cuál es la nueva dieta de moda?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Cuál es el siguiente juguete de los Happy Meal?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Cuál es el nuevo superhéroe?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Qué hay a montones en el cielo?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Cuando todo lo demás falla, siempre me puedo masturbar pensando en %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Cuando sea millonario, voy a construir una estatua de 15 metros en memoria de %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Cuando sea presidente de los Estados Unidos, montaré el departamento de %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Cuando cagué por última vez, qué me salió del culo?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Cuando estaba colocado con ácido, %s se transformó en %s.",
+    "keep": "Yes",
+    "draw": 1,
+    "pick": 2,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Cuando esté en prisión, conseguiré que me entren %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Cuando el faraón permaneció impasible, Moisés invocó una plaga de %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Mientras los Estados Unidos corrían contra la Unión Soviética para llegar a la Luna, el gobierno mexicano canalizó millones de pesos para investigar sobre %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "A los blancos les gusta %s.",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Quién robó todas las galletas?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Por qué estoy pegajoso?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Por qué no puedo dormir por la noche?",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "source": "CaH Official Base Set"
+  },
+  {
+    "type": "Question",
+    "value": "Por qué me duele todo?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
