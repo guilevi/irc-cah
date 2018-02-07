@@ -1,8 +1,8 @@
 {
-    "server":        "openirc.snt.utwente.nl",
-    "nick":          "cah",
+    "server":        "tdrealms.com",
+    "nick":          "cch",
     "setTopic":      true,
-    "topicBase":     "|| This will be appended to the topic along with the game status.",
+    "topicBase":     "|| Cartas Contra la Humanidad!",
     "notifyUsers":   false,
     "pointLimit":    10,
     "connectCommands": [
@@ -12,7 +12,7 @@
         }
     ],
     "joinCommands": {
-        "#cah": [
+        "#cch": [
             {
                 "target": "",
                 "message": ""
@@ -20,8 +20,8 @@
         ]
     },
     "clientOptions": {
-        "userName":             "cah",
-        "channels":             ["#cah"],
+        "userName":             "cch",
+        "channels":             ["#cch"],
         "floodProtection":      true,
         "floodProtectionDelay": 1000
     }

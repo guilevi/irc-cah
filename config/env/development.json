@@ -1,8 +1,8 @@
 {
-    "server": "irc.saunalahti.fi",
-    "nick": "cah-dev",
+    "server": "tdrealms.com",
+    "nick": "cch-dev",
     "setTopic": true,
-    "topicBase": "|| This will be appended to the topic along with the game status.",
+    "topicBase": "|| Cartas Contra la Humanidad",
     "notifyUsers": true,
     "pointLimit": 1,
     "connectCommands": [
@@ -12,17 +12,17 @@
         }
     ],
     "joinCommands": {
-        "#pi-cah-dev": [
+        "#cch": [
             {
-                "target": "#pi-cah-dev",
-                "message": "Hello guys"
+                "target": "#cch",
+                "message": "Buenas"
             }
         ]
     },
     "clientOptions": {
-        "userName": "cah",
+        "userName": "cch",
         "debug": true,
-        "channels": ["#pi-cah-dev"],
+        "channels": ["#cch"],
         "floodProtection": true,
         "floodProtectionDelay": 2000
     }

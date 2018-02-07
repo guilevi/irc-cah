@@ -96,9 +96,9 @@ var Game = function Game(channel, client, config, cmdArgs) {
         self.state = STATES.STOPPED;
 
         if (typeof player !== 'undefined' && player !== null) {
-            self.say(player.nick + ' stopped the game.');
+            self.say(player.nick + ' ha detenido el juego.');
         } else if (pointLimitReached !== true) {
-            self.say('Game has been stopped.');
+            self.say('Juego detenido.');
         }
         if(self.round > 1) {
             // show points if played more than one round
@@ -131,13 +131,13 @@ var Game = function Game(channel, client, config, cmdArgs) {
     self.pause = function () {
         // check if game is already paused
         if (self.state === STATES.PAUSED) {
-            self.say('Game is already paused. Type !resume to begin playing again.');
+            self.say('El juego ya está en pausa. Escribe !continuar para seguir.');
             return false;
         }
 
         // only allow pause if game is in PLAYABLE or PLAYED state
         if (self.state !== STATES.PLAYABLE && self.state !== STATES.PLAYED) {
-            self.say('The game cannot be paused right now.');
+            self.say('El juego no puede pausarse ahora.');
             return false;
         }
 
@@ -147,7 +147,7 @@ var Game = function Game(channel, client, config, cmdArgs) {
         self.pauseState.elapsed = now.getTime() - self.roundStarted.getTime();
         self.state = STATES.PAUSED;
 
-        self.say('Game is now paused. Type !resume to begin playing again.');
+        self.say('El juego está pausado. Escribe !continuar para seguir jugando.');
 
         // clear turn timers
         clearTimeout(self.turnTimer);

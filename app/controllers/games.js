@@ -32,7 +32,7 @@ var Games = function Games() {
 
         if (typeof self.findGame(channel) !== 'undefined') {
             // game exists
-            client.say(channel, 'A game is already running. Type !join to join the game.');
+            client.say(channel, 'Ya hay un juego en progreso. Escribe !unirse para unirte a él.');
         } else {
             // init game
             var game = new Game(channel, client, config, cmdArgs);
@@ -54,7 +54,7 @@ var Games = function Games() {
             hostname = message.host,
             game = self.findGame(channel);
         if (typeof game === 'undefined') {
-            client.say(channel, 'No game running. Start the game by typing !start.');
+            client.say(channel, 'No hay juego en progreso. Escribe !empezar para iniciar uno.');
         } else {
             var player = game.getPlayer({user: user, hostname: hostname});
             if (typeof(player) !== 'undefined') {
@@ -77,7 +77,7 @@ var Games = function Games() {
             hostname = message.host,
             game = self.findGame(channel);
         if (typeof game === 'undefined') {
-            client.say(channel, 'No game running. Start the game by typing !start.');
+            client.say(channel, 'No hay juego en progreso. Escribe !empezar para iniciar uno.');
         } else {
             var player = game.getPlayer({user: user, hostname: hostname});
             if (typeof(player) !== 'undefined') {
@@ -99,7 +99,7 @@ var Games = function Games() {
             hostname = message.host,
             game = self.findGame(channel);
         if (typeof game === 'undefined') {
-            client.say(channel, 'No game running. Start the game by typing !start.');
+            client.say(channel, 'No hay juego en progreso. Escribe !empezar para iniciar uno.');
         } else {
             var player = game.getPlayer({user: user, hostname: hostname});
             if (typeof(player) !== 'undefined') {
@@ -122,7 +122,7 @@ var Games = function Games() {
             game = self.findGame(channel);
 
         if (typeof game === 'undefined') {
-            client.say(channel, 'No game running. Start the game by typing !start.');
+            client.say(channel, 'No hay juego en progreso. Escribe !empezar para iniciar uno.');
         } else {
             var player = new Player(nick, user, hostname);
             game.addPlayer(player);
@@ -141,7 +141,7 @@ var Games = function Games() {
             hostname = message.host,
             game = self.findGame(channel);
         if (typeof game === 'undefined') {
-            client.say(channel, 'No game running. Start the game by typing !start.');
+            client.say(channel, 'No hay juego en progreso. Escribe !empezar para iniciar uno.');
         } else {
             game.removePlayer(game.getPlayer({user: user, hostname: hostname}));
         }
@@ -159,7 +159,7 @@ var Games = function Games() {
             hostname = message.host,
             game = self.findGame(channel);
         if (typeof game === 'undefined') {
-            client.say(channel, 'No game running. Start the game by typing !start.');
+            client.say(channel, 'No hay juego en progreso. Escribe !empezar para iniciar uno.');
         } else {
             var player = game.getPlayer({user: user, hostname: hostname});
             game.showCards(player);
@@ -179,7 +179,7 @@ var Games = function Games() {
             hostname = message.host,
             game = self.findGame(channel);
         if (typeof game === 'undefined') {
-            client.say(channel, 'No game running. Start the game by typing !start.');
+            client.say(channel, 'No hay juego en progreso. Escribe !empezar para iniciar uno.');
         } else {
             var player = game.getPlayer({user: user, hostname: hostname});
             if (typeof(player) !== 'undefined') {
@@ -198,7 +198,7 @@ var Games = function Games() {
         var channel = message.args[0],
             game = self.findGame(channel);
         if (typeof game === 'undefined') {
-            client.say(channel, 'No game running. Start the game by typing !start.');
+            client.say(channel, 'No hay juego en progreso. Escribe !empezar para iniciar uno.');
         } else {
             game.listPlayers();
         }
@@ -216,7 +216,7 @@ var Games = function Games() {
             hostname = message.host,
             game = self.findGame(channel);
         if (typeof game === 'undefined') {
-            client.say(channel, 'No game running. Start the game by typing !start.');
+            client.say(channel, 'No hay juego en progreso. Escribe !empezar para iniciar uno.');
         } else {
             var player = game.getPlayer({user: user, hostname: hostname});
             if (typeof(player) !== 'undefined') {
@@ -236,7 +236,7 @@ var Games = function Games() {
             hostname = message.host,
             game = self.findGame(channel);
         if (typeof game === 'undefined') {
-            client.say(channel, 'No game running. Start the game by typing !start.');
+            client.say(channel, 'No hay juego en progreso. Escribe !empezar para iniciar uno.');
         } else {
             game.showPoints();
         }
@@ -252,7 +252,7 @@ var Games = function Games() {
         var channel = message.args[0],
             game = self.findGame(channel);
         if (typeof game === 'undefined') {
-            client.say(channel, 'No game running. Start the game by typing !start.');
+            client.say(channel, 'No hay juego en progreso. Escribe !empezar para iniciar uno.');
         } else {
             game.showStatus();
         }
@@ -267,7 +267,7 @@ var Games = function Games() {
             game = self.findGame(channel);
 
         if (typeof game === 'undefined'){
-            client.say(channel, 'No game running. Start the game by typing !start.');
+            client.say(channel, 'No hay juego en progreso. Escribe !empezar para iniciar uno.');
         } else {
             var player = game.getPlayer({user: user, hostname: hostname});
 
@@ -277,7 +277,7 @@ var Games = function Games() {
                 } else if (game.state === Game.STATES.PLAYABLE) {
                     game.playCard(cmdArgs, player);
                 } else {
-                    client.say(channel, '!pick command not available in current state.');
+                    client.say(channel, 'El comando !elegir no está disponible en el estado actual.');
                 }
             }
         }
