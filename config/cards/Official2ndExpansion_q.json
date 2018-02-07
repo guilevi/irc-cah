@@ -1,7 +1,7 @@
 [
   {
     "type": "Question",
-    "value": "Tras meses de debate la asamblea general de Wall Street solo pudo llegar al acuerdo de \"M√°s %s!\"",
+    "value": "Tras meses de debate la asamblea general de Wall Street solo pudo llegar al acuerdo de \"M·s %s!\"",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -9,7 +9,7 @@
   },
   {
     "type": "Question",
-    "value": "Antes de %s,todo lo que ten√≠amos era %s.",
+    "value": "Antes de %s,todo lo que tenÌamos era %s.",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -17,7 +17,7 @@
   },
   {
     "type": "Question",
-    "value": "¬°Todo el mundo al suelo! No queremos hacer da√±o a nadie. Solamente estamos aqu√≠ para %s.",
+    "value": "°Todo el mundo al suelo! No queremos hacer daÒo a nadie. Solamente estamos aquÌ para %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -41,7 +41,7 @@
   },
   {
     "type": "Question",
-    "value": "Si dios no quisiera que nos divirti√©ramos con %s, no nos habr√≠a dado %s.",
+    "value": "Si dios no quisiera que nos divirtiÈramos con %s, no nos habrÌa dado %s.",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -49,7 +49,7 @@
   },
   {
     "type": "Question",
-    "value": "Uno mas uno son siete, qui√©n me lo iba a decir? que era tan f√°cil %s.",
+    "value": "Uno mas uno son siete, quiÈn me lo iba a decir? que era tan f·cil %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -57,7 +57,7 @@
   },
   {
     "type": "Question",
-    "value": "La √©lite social de Nueva York, est√° pagando miles de d√≥lares solo por%s.",
+    "value": "La Èlite social de Nueva York, est· pagando miles de dÛlares solo por%s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -65,7 +65,7 @@
   },
   {
     "type": "Question",
-    "value": "Tiran m√°s dos tetas que %s.",
+    "value": "Tiran m·s dos tetas que %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -73,7 +73,7 @@
   },
   {
     "type": "Question",
-    "value": "En su siguiente consulta, el doctor Phil explicar√° c√≥mo hablarle a tu hijo sobre %s.",
+    "value": "En su siguiente consulta, el doctor Phil explicar· cÛmo hablarle a tu hijo sobre %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -89,7 +89,7 @@
   },
   {
     "type": "Question",
-    "value": "Mi proceso de curaci√≥n empez√≥ cuando me un√≠ a un grupo de apoyo a las v√≠ctimas de %s.",
+    "value": "Mi proceso de curaciÛn empezÛ cuando me unÌ a un grupo de apoyo a las vÌctimas de %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -97,7 +97,7 @@
   },
   {
     "type": "Question",
-    "value": "Los votos est√°n contados, la nueva mascota del instituto ser√° %s.",
+    "value": "Los votos est·n contados, la nueva mascota del instituto ser· %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,

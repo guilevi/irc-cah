@@ -9,7 +9,7 @@
   },
   {
     "type": "Question",
-    "value": "%s: ya vre√°s como hay que tener m√°s de uno!",
+    "value": "%s: ya vre·s como hay que tener m·s de uno!",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -33,7 +33,7 @@
   },
   {
     "type": "Question",
-    "value": "%s. As√≠ quiero morir.",
+    "value": "%s. AsÌ quiero morir.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -49,7 +49,7 @@
   },
   {
     "type": "Question",
-    "value": "%s: Probado por ni√±os, aprovado por madres.",
+    "value": "%s: Probado por niÒos, aprovado por madres.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -65,7 +65,7 @@
   },
   {
     "type": "Question",
-    "value": "Una cena rom√°ntica a la luz de unas velas no ser√≠a lo mismo sin %s.",
+    "value": "Una cena rom·ntica a la luz de unas velas no serÌa lo mismo sin %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -73,7 +73,7 @@
   },
   {
     "type": "Question",
-    "value": "Tras el hurac√°n Katrina, Sean Penn llev√≥ %s a la gente de New Orleans.",
+    "value": "Tras el hurac·n Katrina, Sean Penn llevÛ %s a la gente de New Orleans.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -81,7 +81,7 @@
   },
   {
     "type": "Question",
-    "value": "Tras el terremoto, Sean Penn brought %s a la gente de Hait√≠.",
+    "value": "Tras el terremoto, Sean Penn brought %s a la gente de HaitÌ.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -89,7 +89,7 @@
   },
   {
     "type": "Question",
-    "value": "La medicina alternativa est√° aceptando los poderes curativos de %s.",
+    "value": "La medicina alternativa est· aceptando los poderes curativos de %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -97,7 +97,7 @@
   },
   {
     "type": "Question",
-    "value": "Y me hubiera salido con la m√≠a, si no hubiera sido por %s.",
+    "value": "Y me hubiera salido con la mÌa, si no hubiera sido por %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -113,7 +113,7 @@
   },
   {
     "type": "Question",
-    "value": "Antrop√≥logos descubren una tribu primitiva que adora a %s.",
+    "value": "AntropÛlogos descubren una tribu primitiva que adora a %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -129,7 +129,7 @@
   },
   {
     "type": "Question",
-    "value": "BILLY MAYS, aqu√≠ para %s!",
+    "value": "BILLY MAYS, aquÌ para %s!",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -137,7 +137,7 @@
   },
   {
     "type": "Question",
-    "value": "Pero antes de matarle, Sr. Bond, debo ense√±arle %s.",
+    "value": "Pero antes de matarle, Sr. Bond, debo enseÒarle %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -161,7 +161,7 @@
   },
   {
     "type": "Question",
-    "value": "Durante el periodo marr√≥n de Picaso, a menudo pasado por alto, produjo cientos de pinturas de %s.",
+    "value": "Durante el periodo marrÛn de Picaso, a menudo pasado por alto, produjo cientos de pinturas de %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -177,7 +177,7 @@
   },
   {
     "type": "Question",
-    "value": "Todos los ni√±os gritaron asustados al ver que el peque√±o Billy sacaba %s de %s.",
+    "value": "Todos los niÒos gritaron asustados al ver que el pequeÒo Billy sacaba %s de %s.",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -193,7 +193,7 @@
   },
   {
     "type": "Question",
-    "value": "C√≥mo mantengo mi estado de relaci√≥n amorosa?",
+    "value": "CÛmo mantengo mi estado de relaciÛn amorosa?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -201,7 +201,7 @@
   },
   {
     "type": "Question",
-    "value": "Desconozco con qu√© armas se luchar√° en la Tercera Guerra Mundial, pero en la cuarta se luchar√° con %s.",
+    "value": "Desconozco con quÈ armas se luchar· en la Tercera Guerra Mundial, pero en la cuarta se luchar· con %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -225,7 +225,7 @@
   },
   {
     "type": "Question",
-    "value": "Aprend√≠ de la peor manera que no puedes animar a un amigo triste a base de %s.",
+    "value": "AprendÌ de la peor manera que no puedes animar a un amigo triste a base de %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -233,7 +233,7 @@
   },
   {
     "type": "Question",
-    "value": "Nunca entend√≠ del todo %s hasta que encontr√© %s.",
+    "value": "Nunca entendÌ del todo %s hasta que encontrÈ %s.",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -241,7 +241,7 @@
   },
   {
     "type": "Question",
-    "value": "Desear√≠a no haber perdido el manual de instrucciones de %s.",
+    "value": "DesearÌa no haber perdido el manual de instrucciones de %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -257,7 +257,7 @@
   },
   {
     "type": "Question",
-    "value": "En 1000 a√±os, cuando los billetes no sean m√°s que un recuerdo lejano, %s ser√° nuestra moneda.",
+    "value": "En 1000 aÒos, cuando los billetes no sean m·s que un recuerdo lejano, %s ser· nuestra moneda.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -265,7 +265,7 @@
   },
   {
     "type": "Question",
-    "value": "En un mundo devastado por %s, nuestro √∫nico consuelo es %s.",
+    "value": "En un mundo devastado por %s, nuestro ˙nico consuelo es %s.",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -273,7 +273,7 @@
   },
   {
     "type": "Question",
-    "value": "En un intento para apelar a una audiencia m√°s anplia, el Museo Smithsoniano  de Historia Natural ha abierto una exhibici√≥n interactiva sobre %s.",
+    "value": "En un intento para apelar a una audiencia m·s anplia, el Museo Smithsoniano  de Historia Natural ha abierto una exhibiciÛn interactiva sobre %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -281,7 +281,7 @@
   },
   {
     "type": "Question",
-    "value": "En su nuevo √°lbum de producci√≥n propia, Kanye West rapea mientras se oyen sonidos de %s.",
+    "value": "En su nuevo ·lbum de producciÛn propia, Kanye West rapea mientras se oyen sonidos de %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -297,7 +297,7 @@
   },
   {
     "type": "Question",
-    "value": "En su nueva campa√±a de turismo, Detroit proclama orgullosamente que por fin ha eliminado %s.",
+    "value": "En su nueva campaÒa de turismo, Detroit proclama orgullosamente que por fin ha eliminado %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -305,7 +305,7 @@
   },
   {
     "type": "Question",
-    "value": "En la prisi√≥n del condado de los √Ångeles, dicen las malas lenguas que se pueden cambiar doscientos cigarrillos por %s.",
+    "value": "En la prisiÛn del condado de los ¡ngeles, dicen las malas lenguas que se pueden cambiar doscientos cigarrillos por %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -313,7 +313,7 @@
   },
   {
     "type": "Question",
-    "value": "En la nueva pel√≠cula de M. Night Shyamalan, Bruce Willis descubre que %s realmente hab√≠a sido %s durante todo este tiempo.",
+    "value": "En la nueva pelÌcula de M. Night Shyamalan, Bruce Willis descubre que %s realmente habÌa sido %s durante todo este tiempo.",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -321,7 +321,7 @@
   },
   {
     "type": "Question",
-    "value": "En sus √∫ltimos momentos, Michael Jackson pens√≥ en %s.",
+    "value": "En sus ˙ltimos momentos, Michael Jackson pensÛ en %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -337,7 +337,7 @@
   },
   {
     "type": "Question",
-    "value": "En el futuro lejano, los historiadores se pondr√°n de acuerdo en que %s marc√≥ el comienzo del declibe de los Estados unidos.",
+    "value": "En el futuro lejano, los historiadores se pondr·n de acuerdo en que %s marcÛ el comienzo del declibe de los Estados unidos.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -345,7 +345,7 @@
   },
   {
     "type": "Question",
-    "value": "En lugar de carb√≥n, los reyes ahora traen %s a los ni√±os malos.",
+    "value": "En lugar de carbÛn, los reyes ahora traen %s a los niÒos malos.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -353,7 +353,7 @@
   },
   {
     "type": "Question",
-    "value": "Es una pena que los ni√±os de hoy en d√≠a se junten con %s.",
+    "value": "Es una pena que los niÒos de hoy en dÌa se junten con %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -361,7 +361,7 @@
   },
   {
     "type": "Question",
-    "value": "El sentido de la vida no es m√°s que %s.",
+    "value": "El sentido de la vida no es m·s que %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -377,7 +377,7 @@
   },
   {
     "type": "Question",
-    "value": "La vida era dif√≠cil para los hombres de las cavernas antes de %s.",
+    "value": "La vida era difÌcil para los hombres de las cavernas antes de %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -385,7 +385,7 @@
   },
   {
     "type": "Question",
-    "value": "Quiz√°s naci√≥n con ello. Quiz√°s es %s.",
+    "value": "Quiz·s naciÛn con ello. Quiz·s es %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -401,7 +401,7 @@
   },
   {
     "type": "Question",
-    "value": "El siguiente libro de J.K. Rowling: Harry Potter y la c√°mara de %s.",
+    "value": "El siguiente libro de J.K. Rowling: Harry Potter y la c·mara de %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -417,7 +417,7 @@
   },
   {
     "type": "Question",
-    "value": "La ciencia nunca explicar√° el origen de %s.",
+    "value": "La ciencia nunca explicar· el origen de %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -433,7 +433,7 @@
   },
   {
     "type": "Question",
-    "value": "Estudios confirman que las ratas de laboratorio se mueven por los laberintos 50 por ciento m√°s r√°pido tras ser expuestas a %s.",
+    "value": "Estudios confirman que las ratas de laboratorio se mueven por los laberintos 50 por ciento m·s r·pido tras ser expuestas a %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -441,7 +441,7 @@
   },
   {
     "type": "Question",
-    "value": "Pues s√≠, yo mat√© a %s. Te preguntar√°s c√≥mo. Pues a base de %s.",
+    "value": "Pues sÌ, yo matÈ a %s. Te preguntar·s cÛmo. Pues a base de %s.",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -449,7 +449,7 @@
   },
   {
     "type": "Question",
-    "value": "La CIA ahora interroga a agentes enemigos someti√©ndolos continuamente a %s.",
+    "value": "La CIA ahora interroga a agentes enemigos sometiÈndolos continuamente a %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -457,7 +457,7 @@
   },
   {
     "type": "Question",
-    "value": "La excursi√≥n de la escuela iba bien hasta que vimos %s.",
+    "value": "La excursiÛn de la escuela iba bien hasta que vimos %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -465,7 +465,7 @@
   },
   {
     "type": "Question",
-    "value": "Los goviernos socialistas de Escandinavia han declarado que el acceso a %s es un derecho humano b√°sico.",
+    "value": "Los goviernos socialistas de Escandinavia han declarado que el acceso a %s es un derecho humano b·sico.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -473,7 +473,7 @@
   },
   {
     "type": "Question",
-    "value": "Los stados Unidos han empezado a exportar %s a los ni√±os de Afghanist√°n.",
+    "value": "Los stados Unidos han empezado a exportar %s a los niÒos de Afghanist·n.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -481,7 +481,7 @@
   },
   {
     "type": "Question",
-    "value": "As√≠ se acaba el mundo. No con una explosi√≥n, sino con %s.",
+    "value": "AsÌ se acaba el mundo. No con una explosiÛn, sino con %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -497,7 +497,7 @@
   },
   {
     "type": "Question",
-    "value": "Para qu√© vale la guerra?",
+    "value": "Para quÈ vale la guerra?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -505,7 +505,7 @@
   },
   {
     "type": "Question",
-    "value": "Qu√© doy por la cuaresma?",
+    "value": "QuÈ doy por la cuaresma?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -513,7 +513,7 @@
   },
   {
     "type": "Question",
-    "value": "Qu√© est√°n ocult√°ndome mis padres?",
+    "value": "QuÈ est·n ocult·ndome mis padres?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -521,7 +521,7 @@
   },
   {
     "type": "Question",
-    "value": "Fue una org√≠a fant√°stica. Menos cuando de golpe apareci√≥ %s.",
+    "value": "Fue una orgÌa fant·stica. Menos cuando de golpe apareciÛ %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -529,7 +529,7 @@
   },
   {
     "type": "Question",
-    "value": "Qu√© traje de souvenir desde M√©jico?",
+    "value": "QuÈ traje de souvenir desde MÈjico?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -545,7 +545,7 @@
   },
   {
     "type": "Question",
-    "value": "Qu√© ha cenado Vin Diesel?",
+    "value": "QuÈ ha cenado Vin Diesel?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -553,7 +553,7 @@
   },
   {
     "type": "Question",
-    "value": "A qu√© huelen los viejos?",
+    "value": "A quÈ huelen los viejos?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -561,7 +561,7 @@
   },
   {
     "type": "Question",
-    "value": "Qu√© prefiere Dick Cheney?",
+    "value": "QuÈ prefiere Dick Cheney?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -569,7 +569,7 @@
   },
   {
     "type": "Question",
-    "value": "Qu√© es lo que no te quieres encontrar en tu comida china?",
+    "value": "QuÈ es lo que no te quieres encontrar en tu comida china?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -577,7 +577,7 @@
   },
   {
     "type": "Question",
-    "value": "Qu√© hizo acabar mi √∫ltima relaci√≥n?",
+    "value": "QuÈ hizo acabar mi ˙ltima relaciÛn?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -585,7 +585,7 @@
   },
   {
     "type": "Question",
-    "value": "Qu√© mejora con al edad?",
+    "value": "QuÈ mejora con al edad?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -593,7 +593,7 @@
   },
   {
     "type": "Question",
-    "value": "Qu√© me da gases incontrolables?",
+    "value": "QuÈ me da gases incontrolables?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -601,7 +601,7 @@
   },
   {
     "type": "Question",
-    "value": "Qu√© hace la vida imposible a la colonia nudista?",
+    "value": "QuÈ hace la vida imposible a la colonia nudista?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -609,7 +609,7 @@
   },
   {
     "type": "Question",
-    "value": "Qu√© ayuda a Obama a liberar tensi√≥n?",
+    "value": "QuÈ ayuda a Obama a liberar tensiÛn?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -617,7 +617,7 @@
   },
   {
     "type": "Question",
-    "value": "Cu√°l es el placer oculto de Batman?",
+    "value": "Cu·l es el placer oculto de Batman?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -625,7 +625,7 @@
   },
   {
     "type": "Question",
-    "value": "Qu√© es lo √∫nico que nunca falla en avivar la fiesta?",
+    "value": "QuÈ es lo ˙nico que nunca falla en avivar la fiesta?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -633,7 +633,7 @@
   },
   {
     "type": "Question",
-    "value": "Qu√© te conseguir√° siempre sexo?",
+    "value": "QuÈ te conseguir· siempre sexo?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -641,7 +641,7 @@
   },
   {
     "type": "Question",
-    "value": "Qu√© me llevar√© en la m√°quina del tiempo para convencer a todos de que soy un mago poderoso?",
+    "value": "QuÈ me llevarÈ en la m·quina del tiempo para convencer a todos de que soy un mago poderoso?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -649,7 +649,7 @@
   },
   {
     "type": "Question",
-    "value": "Qu√© ser√≠a algo que la abuela encontrar√≠a inquietante, pero un tanto encantador??",
+    "value": "QuÈ serÌa algo que la abuela encontrarÌa inquietante, pero un tanto encantador??",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -657,7 +657,7 @@
   },
   {
     "type": "Question",
-    "value": "Cu√°l s el mejor amigo de una chica?",
+    "value": "Cu·l s el mejor amigo de una chica?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -665,7 +665,7 @@
   },
   {
     "type": "Question",
-    "value": "Cu√°l es mi anti-droga?",
+    "value": "Cu·l es mi anti-droga?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -673,7 +673,7 @@
   },
   {
     "type": "Question",
-    "value": "Cu√°l es mi poder secreto?",
+    "value": "Cu·l es mi poder secreto?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -681,7 +681,7 @@
   },
   {
     "type": "Question",
-    "value": "A qu√© huele?",
+    "value": "A quÈ huele?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -689,7 +689,7 @@
   },
   {
     "type": "Question",
-    "value": "Qu√© es ese ruido?",
+    "value": "QuÈ es ese ruido?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -697,7 +697,7 @@
   },
   {
     "type": "Question",
-    "value": "Qu√© es lo m√°s crugiente?",
+    "value": "QuÈ es lo m·s crugiente?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -705,7 +705,7 @@
   },
   {
     "type": "Question",
-    "value": "Qu√© es eso que me gusta comer y nunca admito?",
+    "value": "QuÈ es eso que me gusta comer y nunca admito?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -713,7 +713,7 @@
   },
   {
     "type": "Question",
-    "value": "Qu√© es lo m√°s emo?",
+    "value": "QuÈ es lo m·s emo?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -721,7 +721,7 @@
   },
   {
     "type": "Question",
-    "value": "Cu√°l es la nueva dieta de moda?",
+    "value": "Cu·l es la nueva dieta de moda?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -729,7 +729,7 @@
   },
   {
     "type": "Question",
-    "value": "Cu√°l es el siguiente juguete de los Happy Meal?",
+    "value": "Cu·l es el siguiente juguete de los Happy Meal?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -737,7 +737,7 @@
   },
   {
     "type": "Question",
-    "value": "Cu√°l es el nuevo superh√©roe?",
+    "value": "Cu·l es el nuevo superhÈroe?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -745,7 +745,7 @@
   },
   {
     "type": "Question",
-    "value": "Qu√© hay a montones en el cielo?",
+    "value": "QuÈ hay a montones en el cielo?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -753,7 +753,7 @@
   },
   {
     "type": "Question",
-    "value": "Cuando todo lo dem√°s falla, siempre me puedo masturbar pensando en %s.",
+    "value": "Cuando todo lo dem·s falla, siempre me puedo masturbar pensando en %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -769,7 +769,7 @@
   },
   {
     "type": "Question",
-    "value": "Cuando sea presidente de los Estados Unidos, montar√© el departamento de %s.",
+    "value": "Cuando sea presidente de los Estados Unidos, montarÈ el departamento de %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -777,7 +777,7 @@
   },
   {
     "type": "Question",
-    "value": "Cuando cagu√© por √∫ltima vez, qu√© me sali√≥ del culo?",
+    "value": "Cuando caguÈ por ˙ltima vez, quÈ me saliÛ del culo?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -785,7 +785,7 @@
   },
   {
     "type": "Question",
-    "value": "Cuando estaba colocado con √°cido, %s se transform√≥ en %s.",
+    "value": "Cuando estaba colocado con ·cido, %s se transformÛ en %s.",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -793,7 +793,7 @@
   },
   {
     "type": "Question",
-    "value": "Cuando est√© en prisi√≥n, conseguir√© que me entren %s.",
+    "value": "Cuando estÈ en prisiÛn, conseguirÈ que me entren %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -801,7 +801,7 @@
   },
   {
     "type": "Question",
-    "value": "Cuando el fara√≥n permaneci√≥ impasible, Mois√©s invoc√≥ una plaga de %s.",
+    "value": "Cuando el faraÛn permaneciÛ impasible, MoisÈs invocÛ una plaga de %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -809,7 +809,7 @@
   },
   {
     "type": "Question",
-    "value": "Mientras los Estados Unidos corr√≠an contra la Uni√≥n Sovi√©tica para llegar a la Luna, el gobierno mexicano canaliz√≥ millones de pesos para investigar sobre %s.",
+    "value": "Mientras los Estados Unidos corrÌan contra la UniÛn SoviÈtica para llegar a la Luna, el gobierno mexicano canalizÛ millones de pesos para investigar sobre %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -825,7 +825,7 @@
   },
   {
     "type": "Question",
-    "value": "Qui√©n rob√≥ todas las galletas?",
+    "value": "QuiÈn robÛ todas las galletas?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -833,7 +833,7 @@
   },
   {
     "type": "Question",
-    "value": "Por qu√© estoy pegajoso?",
+    "value": "Por quÈ estoy pegajoso?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -841,7 +841,7 @@
   },
   {
     "type": "Question",
-    "value": "Por qu√© no puedo dormir por la noche?",
+    "value": "Por quÈ no puedo dormir por la noche?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -849,7 +849,7 @@
   },
   {
     "type": "Question",
-    "value": "Por qu√© me duele todo?",
+    "value": "Por quÈ me duele todo?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,

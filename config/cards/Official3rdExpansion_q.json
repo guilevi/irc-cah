@@ -1,7 +1,7 @@
 [
   {
     "type": "Question",
-    "value": "%s. En teorÃ­a increÃ­ble. En la prÃ¡ctica... una autÃ©ntica mierda.",
+    "value": "%s. En teoría increíble. En la práctica... una auténtica mierda.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -9,7 +9,7 @@
   },
   {
     "type": "Question",
-    "value": "%s: Horas de diversiÃ³n. Sencillo de usar. Perfecto para %s!",
+    "value": "%s: Horas de diversión. Sencillo de usar. Perfecto para %s!",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -17,7 +17,7 @@
   },
   {
     "type": "Question",
-    "value": "Una entrevista de trabajo exitosa comienza con un firme apretÃ³n de manos y termina con %s.",
+    "value": "Una entrevista de trabajo exitosa comienza con un firme apretón de manos y termina con %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -33,7 +33,7 @@
   },
   {
     "type": "Question",
-    "value": "Â¿Y quÃ© has traÃ­do para enseÃ±arnos?",
+    "value": "¿Y qué has traído para enseñarnos?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -41,7 +41,7 @@
   },
   {
     "type": "Question",
-    "value": "Como parte de su contrato, Prince no actuarÃ¡ sin %s en su vestuario.",
+    "value": "Como parte de su contrato, Prince no actuará sin %s en su vestuario.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -49,7 +49,7 @@
   },
   {
     "type": "Question",
-    "value": "Llame a las oficinas de los hermanos GarcÃ­a, ya que nadie deberÃ­a tolerar %s en su lugar de trabajo",
+    "value": "Llame a las oficinas de los hermanos García, ya que nadie debería tolerar %s en su lugar de trabajo",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -57,7 +57,7 @@
   },
   {
     "type": "Question",
-    "value": "En el instituto nunca encajÃ© hasta que encontrÃ© un club de %s.",
+    "value": "En el instituto nunca encajé hasta que encontré un club de %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -65,7 +65,7 @@
   },
   {
     "type": "Question",
-    "value": "Â¡Al fin! Un servicio que entrega %s directamente en tu domicilio.",
+    "value": "¡Al fin! Un servicio que entrega %s directamente en tu domicilio.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -73,7 +73,7 @@
   },
   {
     "type": "Question",
-    "value": "Â¿Tienes problemas con %s? Â¡Intenta %s!",
+    "value": "¿Tienes problemas con %s? ¡Intenta %s!",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -81,7 +81,7 @@
   },
   {
     "type": "Question",
-    "value": "Eh, cariÃ±o, ven a mi casa y te mostrarÃ© %s.",
+    "value": "Eh, cariño, ven a mi casa y te mostraré %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -97,7 +97,7 @@
   },
   {
     "type": "Question",
-    "value": "En el sÃ©ptimo cÃ­rculo del infierno, los pecadores deben aguantar %s por toda la etermidad.",
+    "value": "En el séptimo círculo del infierno, los pecadores deben aguantar %s por toda la etermidad.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -113,7 +113,7 @@
   },
   {
     "type": "Question",
-    "value": "Amarte es fÃ¡cil porque eres %s.",
+    "value": "Amarte es fácil porque eres %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -121,7 +121,7 @@
   },
   {
     "type": "Question",
-    "value": "El dinero no puede comprarme amor, pero sÃ­ %s.",
+    "value": "El dinero no puede comprarme amor, pero sí %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -129,7 +129,7 @@
   },
   {
     "type": "Question",
-    "value": "Mi profesor de gimnasia ha sido despedido por aÃ±adir %s al curso de obstÃ¡culos.",
+    "value": "Mi profesor de gimnasia ha sido despedido por añadir %s al curso de obstáculos.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -137,7 +137,7 @@
   },
   {
     "type": "Question",
-    "value": "Mi vida estÃ¡ dirigida por un cÃ­rculo vicioso de %s y %s.",
+    "value": "Mi vida está dirigida por un círculo vicioso de %s y %s.",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
@@ -145,7 +145,7 @@
   },
   {
     "type": "Question",
-    "value": "La cita a ciegas iba horriblemente, hasta que descubrimos nuestro mutuo interÃ©s en %s.",
+    "value": "La cita a ciegas iba horriblemente, hasta que descubrimos nuestro mutuo interés en %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -153,7 +153,7 @@
   },
   {
     "type": "Question",
-    "value": "A fin de prepararse para su nuevo papel, Daniel Lewis se sumergiÃ³ en el mundo de %s.",
+    "value": "A fin de prepararse para su nuevo papel, Daniel Lewis se sumergió en el mundo de %s.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -161,7 +161,7 @@
   },
   {
     "type": "Question",
-    "value": "EstÃ¡ claro que %s no es lo que prometÃ­a al principio.",
+    "value": "Está claro que %s no es lo que prometía al principio.",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -169,7 +169,7 @@
   },
   {
     "type": "Question",
-    "value": "Â¿QuÃ© ha dejado esta mancha en mi sofÃ¡?",
+    "value": "¿Qué ha dejado esta mancha en mi sofá?",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
@@ -185,7 +185,7 @@
   },
   {
     "type": "Question",
-    "value": "Con suficiente tiempo y presiÃ³n, %s se convertirÃ¡ en %s.",
+    "value": "Con suficiente tiempo y presión, %s se convertirá en %s.",
     "keep": "Yes",
     "draw": 1,
     "pick": 2,
