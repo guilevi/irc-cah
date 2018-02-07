@@ -160,7 +160,7 @@ var Game = function Game(channel, client, config, cmdArgs) {
     self.resume = function () {
         // make sure game is paused
         if (self.state !== STATES.PAUSED) {
-            self.say('The game is not paused.');
+            self.say('El juego no está en pausa.');
             return false;
         }
 
@@ -171,14 +171,14 @@ var Game = function Game(channel, client, config, cmdArgs) {
         self.roundStarted = newTime;
         self.state = self.pauseState.state;
 
-        self.say('Game has been resumed.');
+        self.say('El juego continúa.');
 
         // resume timers
         if (self.state === STATES.PLAYED) {
             // check if czar quit during pause
             if(self.players.indexOf(self.czar) < 0) {
                 // no czar
-                self.say('The czar quit the game during pause. I will pick the winner on this round.');
+                self.say('el czar abandonó el juego durante la pausa. Elegiré el ganador en esta ronda.');
                 // select winner
                 self.selectWinner(Math.round(Math.random() * (self.table.answer.length - 1)));
             } else {
@@ -198,7 +198,7 @@ var Game = function Game(channel, client, config, cmdArgs) {
         if(self.pointLimit > 0) {
             var winner = _.findWhere(self.players, {points: self.pointLimit});
             if(winner) {
-                self.say(winner.nick + ' has the limit of ' + self.pointLimit + ' awesome points and is the winner of the game! Congratulations!');
+                self.say(winner.nick + ' tiene el límite de  ' + self.pointLimit + ' puntos increíbles y es el ganador del juego!¡ Felicidades!');
                 self.stop(null, true);
                 return false;
             }
@@ -206,7 +206,7 @@ var Game = function Game(channel, client, config, cmdArgs) {
 
         // check that there's enough players in the game
         if (self.players.length < 3) {
-            self.say('Not enough players to start a round (need at least 3). Waiting for others to join. Stopping in 3 minutes if not enough players.');
+            self.say('No hay jugadores suficientes para iniciar una ronda (se necesitan al menos 3). Esperando que otros se unan. El juego se detendrá en 3 minutos si no hay jugadores suficientes.');
             self.state = STATES.WAITING;
             // stop game if not enough pleyers in 3 minutes
             self.stopTimeout = setTimeout(self.stop, 3 * 60 * 1000);
@@ -216,7 +216,7 @@ var Game = function Game(channel, client, config, cmdArgs) {
         console.log('Starting round ', self.round);
         self.setCzar();
         self.deal();
-        self.say('Round ' + self.round + '! ' + self.czar.nick + ' is the card czar.');
+        self.say('Ronda ' + self.round + '! ' + self.czar.nick + ' es el czar de las cartas.');
         self.playQuestion();
         // show cards for all players (except czar)
         _.each(self.players, function (player) {
@@ -285,7 +285,7 @@ var Game = function Game(channel, client, config, cmdArgs) {
             }
         });
         if (removedNicks.length > 0) {
-            self.say('Removed inactive players: ' + removedNicks.join(', '));
+            self.say('Eliminados los jugadores inactivos: ' + removedNicks.join(', '));
         }
         // reset state
         self.state = STATES.STARTED;
@@ -306,7 +306,7 @@ var Game = function Game(channel, client, config, cmdArgs) {
         if (card.draw > 0) {
             value += c.bold(' [DRAW ' + card.draw + ']');
         }
-        self.say(c.bold('CARD: ') + value);
+        self.say(c.bold('CARTA: ') + value);
         self.table.question = card;
         // draw cards
         if (self.table.question.draw > 0) {
@@ -333,7 +333,7 @@ var Game = function Game(channel, client, config, cmdArgs) {
     self.playCard = function (cards, player) {
         // don't allow if game is paused
         if (self.state === STATES.PAUSED) {
-            self.say('Game is currently paused.');
+            self.say('El juego está en pausa.');
             return false;
         }
 
@@ -341,29 +341,29 @@ var Game = function Game(channel, client, config, cmdArgs) {
         // make sure different cards are played
         cards = _.uniq(cards);
         if (self.state !== STATES.PLAYABLE || player.cards.numCards() === 0) {
-            self.say(player.nick + ': Can\'t play at the moment.');
+            self.say(player.nick + ': No puedes jugar ahora.');
         } else if (typeof player !== 'undefined') {
             if (player.isCzar === true) {
-                self.say(player.nick + ': You are the card czar. The czar does not play. The czar makes other people do his dirty work.');
+                self.say(player.nick + ': Eres el czar de las cartas. El czar no juega. El czar hace que otros hagan su trabajo sucio.');
             } else {
                 if (player.hasPlayed === true) {
-                    self.say(player.nick + ': You have already played on this round.');
+                    self.say(player.nick + ': Ya has jugado en esta ronda.');
                 } else if (cards.length != self.table.question.pick) {
                     // invalid card count
-                    self.say(player.nick + ': You must pick ' + self.table.question.pick + ' different cards.');
+                    self.say(player.nick + ': Debes elegir ' + self.table.question.pick + ' cartas distintas.');
                 } else {
                     // get played cards
                     var playerCards;
                     try {
                         playerCards = player.cards.pickCards(cards);
                     } catch (error) {
-                        self.notice(player.nick, 'Invalid card index');
+                        self.notice(player.nick, 'Índice de carta inválido');
                         return false;
                     }
                     self.table.answer.push(playerCards);
                     player.hasPlayed = true;
                     player.inactiveRounds = 0;
-                    self.notice(player.nick, 'You played: ' + self.getFullEntry(self.table.question, playerCards.getCards()));
+                    self.notice(player.nick, 'Has elegido: ' + self.getFullEntry(self.table.question, playerCards.getCards()));
                     // show entries if all players have played
                     if (self.checkAllPlayed()) {
                         self.showEntries();
@@ -387,19 +387,19 @@ var Game = function Game(channel, client, config, cmdArgs) {
         console.log('Round elapsed:', roundElapsed, now.getTime(), self.roundStarted.getTime());
         if (roundElapsed >= timeLimit) {
             console.log('The round timed out');
-            self.say('Time is up!');
+            self.say('¡Se acabó el tiempo!');
             self.markInactivePlayers();
             // show end of turn
             self.showEntries();
         } else if (roundElapsed >= timeLimit - (10 * 1000) && roundElapsed < timeLimit) {
             // 10s ... 0s left
-            self.say('10 seconds left!');
+            self.say('¡Quedan 10 segundos!');
         } else if (roundElapsed >= timeLimit - (30 * 1000) && roundElapsed < timeLimit - (20 * 1000)) {
             // 30s ... 20s left
-            self.say('30 seconds left!');
+            self.say('¡Qedan 30 segundos!');
         } else if (roundElapsed >= timeLimit - (60 * 1000) && roundElapsed < timeLimit - (50 * 1000)) {
             // 60s ... 50s left
-            self.say('Hurry up, 1 minute left!');
+            self.say('¡Daos prisa, 1 minuto restante!');
             self.showStatus();
         }
     };
@@ -414,15 +414,15 @@ var Game = function Game(channel, client, config, cmdArgs) {
         self.state = STATES.PLAYED;
         // Check if 2 or more entries...
         if (self.table.answer.length === 0) {
-            self.say('No one played on this round.');
+            self.say('Nadie jugó en esta ronda.');
             // skip directly to next round
             self.clean();
             self.nextRound();
         } else if (self.table.answer.length === 1) {
-            self.say('Only one player played and is the winner by default.');
+            self.say('Solo jugó un jugador y es el ganador por defecto.');
             self.selectWinner(0);
         } else {
-            self.say('Everyone has played. Here are the entries:');
+            self.say('Todo el mundo ha jugado! Aquí están los candidatos:');
             // shuffle the entries
             self.table.answer = _.shuffle(self.table.answer);
             _.each(self.table.answer, function (cards, i) {
@@ -432,10 +432,10 @@ var Game = function Game(channel, client, config, cmdArgs) {
             var currentCzar = _.findWhere(this.players, {isCzar: true});
             if (typeof currentCzar === 'undefined') {
                 // no czar, random winner (TODO: Voting?)
-                self.say('The czar has fled the scene. So I will pick the winner on this round.');
+                self.say('El czar ha huido. Por lo tanto, yo elegiré el ganador en esta ronda.');
                 self.selectWinner(Math.round(Math.random() * (self.table.answer.length - 1)));
             } else {
-                self.say(self.czar.nick + ': Select the winner (!winner <entry number>)');
+                self.say(self.czar.nick + ': Selecciona el ganador (!ganador <número candidato>)');
                 // start turn timer, check every 10 secs
                 clearInterval(self.winnerTimer);
                 self.roundStarted = new Date();
@@ -457,20 +457,20 @@ var Game = function Game(channel, client, config, cmdArgs) {
         console.log('Winner selection elapsed:', roundElapsed, now.getTime(), self.roundStarted.getTime());
         if (roundElapsed >= timeLimit) {
             console.log('the czar is inactive, selecting winner');
-            self.say('Time is up. I will pick the winner on this round.');
+            self.say('Se acabó el tiempo. Yo elegiré el ganador en esta ronda.');
             // Check czar & remove player after 3 timeouts
             self.czar.inactiveRounds++;
             // select winner
             self.selectWinner(Math.round(Math.random() * (self.table.answer.length - 1)));
         } else if (roundElapsed >= timeLimit - (10 * 1000) && roundElapsed < timeLimit) {
             // 10s ... 0s left
-            self.say(self.czar.nick + ': 10 seconds left!');
+            self.say(self.czar.nick + ': quedan 10 segundos!');
         } else if (roundElapsed >= timeLimit - (30 * 1000) && roundElapsed < timeLimit - (20 * 1000)) {
             // 30s ... 20s left
-            self.say(self.czar.nick + ': 30 seconds left!');
+            self.say(self.czar.nick + ': quedan 30 segundos!');
         } else if (roundElapsed >= timeLimit - (60 * 1000) && roundElapsed < timeLimit - (50 * 1000)) {
             // 60s ... 50s left
-            self.say(self.czar.nick + ': Hurry up, 1 minute left!');
+            self.say(self.czar.nick + ': Date prisa, queda un minuto!');
         }
     };
 
@@ -482,7 +482,7 @@ var Game = function Game(channel, client, config, cmdArgs) {
     self.selectWinner = function (index, player) {
         // don't allow if game is paused
         if (self.state === STATES.PAUSED) {
-            self.say('Game is currently paused.');
+            self.say('El juego está en pausa.');
             return false;
         }
 
@@ -492,9 +492,9 @@ var Game = function Game(channel, client, config, cmdArgs) {
         var winner = self.table.answer[index];
         if (self.state === STATES.PLAYED) {
             if (typeof player !== 'undefined' && player !== self.czar) {
-                client.say(player.nick + ': You are not the card czar. Only the card czar can select the winner');
+                client.say(player.nick + ': No eres el czar de las cartas. Solo el czar puede elegir el ganador.');
             } else if (typeof winner === 'undefined') {
-                self.say('Invalid winner');
+                self.say('Ganador inválido');
             } else {
                 self.state = STATES.ROUND_END;
                 var owner = winner.cards[0].owner;
@@ -502,7 +502,7 @@ var Game = function Game(channel, client, config, cmdArgs) {
                 // update points object
                 _.findWhere(self.points, {player: owner}).points = owner.points;
                 // announce winner
-                self.say(c.bold('Winner is: ') + owner.nick + ' with "' + self.getFullEntry(self.table.question, winner.getCards()) + '" and gets one awesome point! ' + owner.nick + ' has ' + owner.points + ' awesome points.');
+                self.say(c.bold('El ganador es: ') + owner.nick + ' con "' + self.getFullEntry(self.table.question, winner.getCards()) + '" y consigue un punto increíble! ' + owner.nick + ' tiene ' + owner.points + ' puntos increíbles.');
                 self.clean();
                 self.nextRound();
             }
@@ -561,7 +561,7 @@ var Game = function Game(channel, client, config, cmdArgs) {
     self.addPlayer = function (player) {
         if (typeof self.getPlayer({user: player.user, hostname: player.hostname}) === 'undefined') {
             self.players.push(player);
-            self.say(player.nick + ' has joined the game');
+            self.say(player.nick + ' se ha unido al juego');
             // check if player is returning to game
             var pointsPlayer = _.findWhere(self.points, {user: player.user, hostname: player.hostname});
             if (typeof pointsPlayer === 'undefined') {
@@ -618,7 +618,7 @@ var Game = function Game(channel, client, config, cmdArgs) {
                 self.discards.answer.addCard(card);
             });
             if (options.silent !== true) {
-                self.say(player.nick + ' has left the game');
+                self.say(player.nick + ' ha abandonado el juego');
             }
 
             // check if remaining players have all player
@@ -628,7 +628,7 @@ var Game = function Game(channel, client, config, cmdArgs) {
 
             // check czar
             if (self.state === STATES.PLAYED && self.czar === player) {
-                self.say('The czar has fled the scene. So I will pick the winner on this round.');
+                self.say('El czar ha huido. Por lo tanto, yo elegiré el ganador en esta ronda.');
                 self.selectWinner(Math.round(Math.random() * (self.table.answer.length - 1)));
             }
 
@@ -668,7 +668,7 @@ var Game = function Game(channel, client, config, cmdArgs) {
             _.each(player.cards.getCards(), function (card, index) {
                 cards += c.bold(' [' + index + '] ') + card.value;
             }, this);
-            self.notice(player.nick, 'Your cards are:' + cards);
+            self.notice(player.nick, 'Tus cartas son:' + cards);
         }
     };
 
@@ -683,7 +683,7 @@ var Game = function Game(channel, client, config, cmdArgs) {
         _.each(sortedPlayers, function (point) {
             output += point.player.nick + " " + point.points + " awesome points, ";
         });
-        self.say('The most horrible people: ' + output.slice(0, -2));
+        self.say('La gente más horrible: ' + output.slice(0, -2));
     };
 
     /**
@@ -700,25 +700,25 @@ var Game = function Game(channel, client, config, cmdArgs) {
             notPlayed = _.where(activePlayers, {isCzar: false, hasPlayed: false}); // players who have not played yet
         switch (self.state) {
             case STATES.PLAYABLE:
-                self.say(c.bold('Status: ') + self.czar.nick + ' is the czar. Waiting for players to play: ' + _.pluck(notPlayed, 'nick').join(', '));
+                self.say(c.bold('Estado: ') + self.czar.nick + ' es el czar. Esperando a que jueguen: ' + _.pluck(notPlayed, 'nick').join(', '));
                 break;
             case STATES.PLAYED:
-                self.say(c.bold('Status: ') + 'Waiting for ' + self.czar.nick + ' to select the winner.');
+                self.say(c.bold('Estado: ') + 'Esperando a que ' + self.czar.nick + ' elija el ganador.');
                 break;
             case STATES.ROUND_END:
-                self.say(c.bold('Status: ') + 'Round has ended and next one is starting.');
+                self.say(c.bold('Status: ') + 'la ronda ha finalizado y ahora empezará una nueva.');
                 break;
             case STATES.STARTED:
-                self.say(c.bold('Status: ') + 'Game starts in ' + timeLeft + ' seconds. Need ' + playersNeeded + ' more players to start.');
+                self.say(c.bold('Estado: ') + 'El juego empezará en ' + timeLeft + ' segundos. Se necesitan ' + playersNeeded + ' más jugadores para empezar.');
                 break;
             case STATES.STOPPED:
-                self.say(c.bold('Status: ') + 'Game has been stopped.');
+                self.say(c.bold('Estado: ') + 'El juego está detenido.');
                 break;
             case STATES.WAITING:
-                self.say(c.bold('Status: ') + 'Not enough players to start. Need ' + playersNeeded + ' more players to start.');
+                self.say(c.bold('Estado: ') + 'No hay suficientes jugadores para empezar. Se necesitan ' + playersNeeded + ' más jugadores para empezar.');
                 break;
             case STATES.PAUSED:
-                self.say(c.bold('Status: ') + 'Game is paused.');
+                self.say(c.bold('Estado: ') + 'El juego está pausado.');
                 break;
         }
     };
@@ -746,7 +746,7 @@ var Game = function Game(channel, client, config, cmdArgs) {
      * List all players in the current game
      */
     self.listPlayers = function () {
-        self.say('Players currently in the game: ' + _.pluck(self.players, 'nick').join(', '));
+        self.say('Jugadores en este juego: ' + _.pluck(self.players, 'nick').join(', '));
     };
 
     /**
@@ -834,7 +834,7 @@ var Game = function Game(channel, client, config, cmdArgs) {
     self.setTopic(c.bold.lime('A game is running. Type !join to get in on it!'));
 
     // announce the game on the channel
-    self.say('A new game of ' + c.rainbow('Cards Against Humanity') + '. The game starts in 30 seconds. Type !join to join the game any time.');
+    self.say('Un nuevo juego de ' + c.rainbow('Cartas Contra la Humanidad') + '. El juego empezará en 30 segundos. Escribe !unirse para unirte en cualquier momento.');
 
     // notify users
     if (typeof config.notifyUsers !== 'undefined' && config.notifyUsers) {
